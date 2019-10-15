@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AgainParagon.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{89DCD856-0AC9-4528-A880-F04D00504514}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AgainParagon.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AgainParagonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{22F22AB7-F521-4261-9427-FA6F2FC34024}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AgainParagon">
+      <UniqueIdentifier>{9C40B92F-8BB5-4670-A840-6415E11D4982}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AgainParagon\AgainParagon.Build.cs">
+      <Filter>Source\AgainParagon</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AgainParagon\AgainParagon.cpp">
+      <Filter>Source\AgainParagon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AgainParagon\AgainParagon.h">
+      <Filter>Source\AgainParagon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AgainParagon\MainGameMode.cpp">
+      <Filter>Source\AgainParagon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AgainParagon\MainGameMode.h">
+      <Filter>Source\AgainParagon</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
