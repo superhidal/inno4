@@ -1,0 +1,3 @@
+D:\Lecture\Unreal\inno4\AgainParagon\Source\AgainParagon\AgainParagon.Build.cs
+D:\Lecture\Unreal\inno4\AgainParagon\Source\AgainParagon.Target.cs
+D:\Lecture\Unreal\inno4\AgainParagon\Source\AgainParagonEditor.Target.cs
