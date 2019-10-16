@@ -3,8 +3,18 @@
 	"EngineAssociation": "4.23",
 	"Category": "",
 	"Description": "",
-	"TargetPlatforms": [
-		"PS4",
-		"WindowsNoEditor"
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraExtras",
+			"Enabled": true
+		}
 	]
 }
