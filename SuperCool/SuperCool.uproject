@@ -5,15 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ApexDestruction",
+			"Name": "GoogleVRHMD",
 			"Enabled": true
 		},
 		{
-			"Name": "Niagara",
-			"Enabled": true
-		},
-		{
-			"Name": "NiagaraExtras",
+			"Name": "GoogleVRController",
 			"Enabled": true
 		}
 	]
