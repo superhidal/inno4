@@ -1,0 +1,1567 @@
+﻿Log file open, 10/24/19 16:09:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SuperCool
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.144287
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.24-07.09.58:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.24-07.09.58:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.24-07.09.58:769][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.24-07.09.58:771][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.24-07.09.58:771][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.24-07.09.58:772][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.24-07.09.58:772][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.24-07.09.58:772][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.24-07.09.58:778][  0]LogHAL: Display: Platform has ~ 32 GB [34122735616 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.24-07.09.58:778][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.24-07.09.58:778][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:778][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.24-07.09.58:778][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.24-07.09.58:778][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:778][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.24-07.09.58:779][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.24-07.09.58:780][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.24-07.09.58:780][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.24-07.09.58:780][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-07.09.58:780][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.24-07.09.58:780][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.24-07.09.58:780][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.24-07.09.58:783][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.24-07.09.58:783][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.24-07.09.58:783][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.24-07.09.58:784][  0]LogInit: Computer: BIT
+[2019.10.24-07.09.58:784][  0]LogInit: User: bitcamp
+[2019.10.24-07.09.58:784][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.24-07.09.58:784][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.24-07.09.58:784][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.10.24-07.09.58:784][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.24-07.09.58:784][  0]LogMemory: Process Physical Memory: 108.95 MB used, 108.95 MB peak
+[2019.10.24-07.09.58:784][  0]LogMemory: Process Virtual Memory: 96.18 MB used, 96.18 MB peak
+[2019.10.24-07.09.58:784][  0]LogMemory: Physical Memory: 7825.39 MB used,  24716.58 MB free, 32541.98 MB total
+[2019.10.24-07.09.58:784][  0]LogMemory: Virtual Memory: 4720.08 MB used,  134213008.00 MB free, 134217728.00 MB total
+[2019.10.24-07.09.58:786][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.24-07.09.58:912][  0]LogInit: Using OS detected language (ko-KR).
+[2019.10.24-07.09.58:912][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.10.24-07.09.58:913][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.10.24-07.09.59:041][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.24-07.09.59:117][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.24-07.09.59:117][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.24-07.10.00:599][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.24-07.10.00:619][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.24-07.10.00:619][  0]LogD3D11RHI:       128/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.24-07.10.00:668][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.10.24-07.10.00:668][  0]LogD3D11RHI:       8010/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2019.10.24-07.10.00:670][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.24-07.10.00:670][  0]LogD3D11RHI:       0/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.24-07.10.00:670][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.10.24-07.10.00:676][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.24-07.10.00:676][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.24-07.10.00:676][  0]LogWindows: EnumDisplayDevices:
+[2019.10.24-07.10.00:676][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.24-07.10.00:677][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.24-07.10.00:677][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.24-07.10.00:677][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.24-07.10.00:677][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.10.24-07.10.00:677][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.24-07.10.00:678][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.24-07.10.00:678][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.24-07.10.00:678][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.10.24-07.10.00:678][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.10.24-07.10.00:678][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.10.24-07.10.00:678][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.10.24-07.10.00:719][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.24-07.10.00:730][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.24-07.10.01:124][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.24-07.10.01:138][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.24-07.10.01:153][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.24-07.10.01:167][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.24-07.10.01:185][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.24-07.10.01:200][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.24-07.10.01:215][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.24-07.10.01:231][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.24-07.10.01:243][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.24-07.10.01:283][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.24-07.10.01:294][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.24-07.10.01:337][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.24-07.10.01:337][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.24-07.10.01:356][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.24-07.10.01:356][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.24-07.10.01:370][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.24-07.10.01:384][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.24-07.10.01:400][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.24-07.10.01:419][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.24-07.10.01:449][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.24-07.10.01:449][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.24-07.10.01:449][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.24-07.10.01:494][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.24-07.10.01:689][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (C:/Users/bitcamp/Desktop/SuperCool 원본/Intermediate/Shaders/WorkingDirectory/16704/).
+[2019.10.24-07.10.01:690][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bitcamp/AppData/Local/Temp/UnrealShaderWorkingDir/324A0EB54703B305FC3B86A133FD49F5/'.
+[2019.10.24-07.10.01:691][  0]LogXGEController: Cleaning working directory: C:/Users/bitcamp/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.24-07.10.01:691][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.24-07.10.01:691][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.24-07.10.01:691][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.24-07.10.03:361][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.24-07.10.03:410][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/bitcamp/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.24-07.10.03:410][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bitcamp/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.24-07.10.03:410][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/bitcamp/Desktop/SuperCool 원본/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.24-07.10.03:410][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.24-07.10.03:410][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/bitcamp/Desktop/SuperCool 원본/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.24-07.10.03:410][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.24-07.10.03:423][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.24-07.10.03:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.24-07.10.03:423][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.24-07.10.03:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bitcamp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.24-07.10.03:424][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.24-07.10.03:424][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.24-07.10.03:443][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.24-07.10.03:445][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.24-07.10.03:451][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.24-07.10.03:616][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2019.10.24-07.10.03:861][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.24-07.10.04:156][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.24-07.10.04:156][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.24-07.10.04:156][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.24-07.10.04:156][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.24-07.10.04:156][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.24-07.10.04:183][  0]LogNetVersion: SuperCool 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 576053900)
+[2019.10.24-07.10.04:980][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.051471 seconds
+[2019.10.24-07.10.04:986][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.24-07.10.04:986][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.24-07.10.04:986][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.24-07.10.07:383][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.24-07.10.07:394][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.24-07.10.07:639][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.24-07.10.07:639][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.24-07.10.07:650][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.24-07.10.07:660][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.24-07.10.08:051][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.24-07.10.08:357][  0]LogOcInput: OculusInput pre-init called
+[2019.10.24-07.10.08:972][  0]LogEngine: Initializing Engine...
+[2019.10.24-07.10.08:973][  0]LogHMD: Oculus plugin initialized. Version: 4.23.0-8386587+++UE4+Release-4.23, OVRPlugin: 1.37.0
+[2019.10.24-07.10.08:974][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.24-07.10.09:289][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.24-07.10.09:307][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.24-07.10.09:325][  0]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-07.10.09:341][  0]LogInit: FAudioDevice initialized.
+[2019.10.24-07.10.09:341][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.24-07.10.09:418][  0]LogDerivedDataCache: Saved boot cache 0.08s 76MB C:/Users/bitcamp/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.24-07.10.09:428][  0]LogInit: Texture streaming: Enabled
+[2019.10.24-07.10.09:474][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.24-07.10.09:560][  0]LogInit: Transaction tracking system initialized
+[2019.10.24-07.10.09:630][  0]BlueprintLog: New page: 에디터 로드
+[2019.10.24-07.10.09:823][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.10.24-07.10.09:997][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-07.10.09:997][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-07.10.09:997][  0]LogUObjectGlobals: Warning: 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-07.10.10:358][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.24-07.10.10:359][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.24-07.10.10:894][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/' took 0.01s
+[2019.10.24-07.10.10:894][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.24-07.10.10:894][  0]Cmd: MAP LOAD FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Maps/Level1/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.24-07.10.10:894][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.24-07.10.10:896][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-07.10.10:896][  0]MapCheck: New page: 맵 체크
+[2019.10.24-07.10.10:896][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.24-07.10.10:922][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.24-07.10.11:771][  0]LogAIModule: Creating AISystem for world Level1
+[2019.10.24-07.10.11:792][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.24-07.10.11:826][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.24-07.10.11:826][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.24-07.10.11:826][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.124ms.
+[2019.10.24-07.10.11:826][  0]LogFileHelpers: Loading map 'Level1' took 0.932
+[2019.10.24-07.10.11:952][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.10.11:958][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.10.11:963][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.10.11:969][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.10.11:988][  0]LogCollectionManager: Loaded 0 collections in 0.000787 seconds
+[2019.10.24-07.10.11:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Collections/' took 0.00s
+[2019.10.24-07.10.11:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Developers/bitcamp/Collections/' took 0.00s
+[2019.10.24-07.10.11:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Collections/' took 0.00s
+[2019.10.24-07.10.11:992][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.24-07.10.11:999][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2872 classes and 685 folders.
+[2019.10.24-07.10.12:003][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.24-07.10.12:181][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.24-07.10.12:195][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.24-07.10.12:257][  0]LogSlate: Took 0.003751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.24-07.10.12:263][  0]LogSlate: Took 0.005325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.24-07.10.12:268][  0]LogSlate: Took 0.004610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.10.24-07.10.12:271][  0]LogSlate: Took 0.002859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.24-07.10.12:277][  0]LogSlate: Took 0.004025 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.24-07.10.12:405][  0]LogRenderer: Reallocating scene render targets to support 1124x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.24-07.10.12:478][  0]LogSlate: Last resort fallback font was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '라 (U+b77c)'
+[2019.10.24-07.10.12:485][  0]LogSlate: Took 0.005250 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.10.24-07.10.12:556][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.24-07.10.12:556][  0]LogLoad: (Engine Initialization) Total time: 16.27 seconds
+[2019.10.24-07.10.12:556][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.24-07.10.12:570][  0]LogOcInput: OculusInput is initialized
+[2019.10.24-07.10.12:618][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.24-07.10.12:644][  0]LogSlate: Took 0.003182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.24-07.10.13:032][  8]LogAssetRegistry: Asset discovery search completed in 9.4163 seconds
+[2019.10.24-07.10.13:034][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.10.24-07.10.13:034][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2019.10.24-07.10.14:982][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-07.10.15:089][234]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.24-07.10.15:107][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.10.15:107][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-07.10.15:107][234]LogHMD: Initializing OVRPlugin session
+[2019.10.24-07.10.15:189][234]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.24-07.10.15:190][234]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오전 1:10:15)
+[2019.10.24-07.10.15:191][234]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.24-07.10.15:192][234]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-07.10.15:207][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015498s)
+[2019.10.24-07.10.15:208][234]LogAIModule: Creating AISystem for world Level1
+[2019.10.24-07.10.15:208][234]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2019.10.24-07.10.15:208][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.016722s)
+[2019.10.24-07.10.15:232][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.24-07.10.15:246][234]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-07.10.15:256][234]LogInit: FAudioDevice initialized.
+[2019.10.24-07.10.15:262][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.10.15:586][234]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-07.10.15:593][234]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.24-16.10.15
+[2019.10.24-07.10.15:593][234]LogWorld: Bringing up level for play took: 0.006184
+[2019.10.24-07.10.15:593][234]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.10.24-07.10.15:598][234]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.10.24-07.10.15:602][234]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 1.043
+[2019.10.24-07.10.15:603][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.10.15:603][234]LogEngine: Changing dynamic resolution state.
+[2019.10.24-07.10.15:621][234]LogRenderer: Reallocating scene render targets to support 2688x1600 Format 10 NumSamples 1 (Frame:1).
+[2019.10.24-07.10.15:621][234]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.24-07.10.15:674][236]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.24-07.10.28:908][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.10.28:959][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.10.28:959][951]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-07.10.29:006][951]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.24-07.10.29:012][951]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-07.10.29:018][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-07.10.29:018][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.10.29:055][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.10.24-07.10.29:069][952]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.24-07.10.29:074][952]LogEngine: Changing dynamic resolution state.
+[2019.10.24-07.10.32:528][262]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.24-07.10.32:534][262]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.10.24-07.10.32:804][262]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.10.24-07.10.33:513][262]LogSlate: Took 0.003396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.24-07.10.33:600][263]LogSlate: Took 0.003529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.24-07.10.42:141][283]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.10.24-07.11.06:025][392]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.24-07.11.06:046][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.11.06:046][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-07.11.06:047][392]LogHMD: Initializing OVRPlugin session
+[2019.10.24-07.11.06:125][392]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.24-07.11.06:126][392]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오전 1:11:06)
+[2019.10.24-07.11.06:126][392]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-07.11.06:140][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013951s)
+[2019.10.24-07.11.06:141][392]LogAIModule: Creating AISystem for world Level1
+[2019.10.24-07.11.06:141][392]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.10.24-07.11.06:141][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.015030s)
+[2019.10.24-07.11.06:175][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.10.24-07.11.06:188][392]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-07.11.06:198][392]LogInit: FAudioDevice initialized.
+[2019.10.24-07.11.06:204][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.11.06:225][392]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-07.11.06:235][392]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.24-16.11.06
+[2019.10.24-07.11.06:235][392]LogWorld: Bringing up level for play took: 0.009655
+[2019.10.24-07.11.06:235][392]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.24-07.11.06:241][392]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.318
+[2019.10.24-07.11.06:241][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.11.06:241][392]LogEngine: Changing dynamic resolution state.
+[2019.10.24-07.11.06:247][392]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.24-07.11.06:393][394]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.24-07.11.12:277][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.11.12:331][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.11.12:331][811]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-07.11.12:361][811]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.24-07.11.12:367][811]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-07.11.12:383][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-07.11.12:383][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.11.12:428][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.10.24-07.11.12:481][812]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.24-07.11.12:481][812]LogEngine: Changing dynamic resolution state.
+[2019.10.24-07.11.20:172][734]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.24-07.11.20:194][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.11.20:195][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-07.11.20:195][734]LogHMD: Initializing OVRPlugin session
+[2019.10.24-07.11.20:281][734]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.24-07.11.20:282][734]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오전 1:11:20)
+[2019.10.24-07.11.20:282][734]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-07.11.20:296][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013818s)
+[2019.10.24-07.11.20:297][734]LogAIModule: Creating AISystem for world Level1
+[2019.10.24-07.11.20:297][734]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2019.10.24-07.11.20:297][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.015134s)
+[2019.10.24-07.11.20:325][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.24-07.11.20:337][734]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-07.11.20:348][734]LogInit: FAudioDevice initialized.
+[2019.10.24-07.11.20:355][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.11.20:380][734]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-07.11.20:386][734]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.24-16.11.20
+[2019.10.24-07.11.20:386][734]LogWorld: Bringing up level for play took: 0.005620
+[2019.10.24-07.11.20:386][734]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.24-07.11.20:392][734]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.167
+[2019.10.24-07.11.20:392][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.11.20:393][734]LogEngine: Changing dynamic resolution state.
+[2019.10.24-07.11.20:400][734]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.24-07.11.20:469][736]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.24-07.11.46:804][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.11.46:842][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.11.46:842][878]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-07.11.46:871][878]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.24-07.11.46:878][878]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-07.11.46:894][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-07.11.46:895][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.11.46:937][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.10.24-07.11.46:991][879]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.24-07.11.46:991][879]LogEngine: Changing dynamic resolution state.
+[2019.10.24-07.11.57:253][417]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.24-07.11.57:276][417]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.11.57:276][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-07.11.57:276][417]LogHMD: Initializing OVRPlugin session
+[2019.10.24-07.11.57:358][417]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.24-07.11.57:359][417]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오전 1:11:57)
+[2019.10.24-07.11.57:359][417]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-07.11.57:376][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016929s)
+[2019.10.24-07.11.57:378][417]LogAIModule: Creating AISystem for world Level1
+[2019.10.24-07.11.57:378][417]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2019.10.24-07.11.57:378][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.018531s)
+[2019.10.24-07.11.57:408][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.24-07.11.57:420][417]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-07.11.57:431][417]LogInit: FAudioDevice initialized.
+[2019.10.24-07.11.57:436][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.11.57:454][417]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-07.11.57:459][417]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.24-16.11.57
+[2019.10.24-07.11.57:460][417]LogWorld: Bringing up level for play took: 0.005169
+[2019.10.24-07.11.57:460][417]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.24-07.11.57:469][417]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.91
+[2019.10.24-07.11.57:470][417]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.11.57:470][417]LogEngine: Changing dynamic resolution state.
+[2019.10.24-07.11.57:474][417]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.24-07.11.57:552][419]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.24-07.12.25:723][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.12.25:763][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.12.25:763][672]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-07.12.25:792][672]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.24-07.12.25:799][672]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-07.12.25:817][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-07.12.25:818][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.12.25:863][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.24-07.12.25:922][673]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.24-07.12.25:923][673]LogEngine: Changing dynamic resolution state.
+[2019.10.24-07.12.39:881][335]BlueprintLog: New page: BP_MotionController 컴파일
+[2019.10.24-07.12.40:097][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.10.24-07.12.40:474][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2019.10.24-07.12.40:657][368]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_MotionController74394E74430287A2895FDB8330C40410.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2019.10.24-07.12.44:129][778]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.24-07.12.44:155][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.12.44:155][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-07.12.44:155][778]LogHMD: Initializing OVRPlugin session
+[2019.10.24-07.12.44:239][778]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.24-07.12.44:240][778]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오전 1:12:44)
+[2019.10.24-07.12.44:240][778]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-07.12.44:256][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016260s)
+[2019.10.24-07.12.44:257][778]LogAIModule: Creating AISystem for world Level1
+[2019.10.24-07.12.44:257][778]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2019.10.24-07.12.44:257][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.017649s)
+[2019.10.24-07.12.44:291][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.10.24-07.12.44:303][778]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-07.12.44:310][778]LogInit: FAudioDevice initialized.
+[2019.10.24-07.12.44:315][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.12.44:339][778]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-07.12.44:349][778]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.24-16.12.44
+[2019.10.24-07.12.44:350][778]LogWorld: Bringing up level for play took: 0.010328
+[2019.10.24-07.12.44:350][778]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.24-07.12.44:355][778]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.204
+[2019.10.24-07.12.44:355][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.12.44:356][778]LogEngine: Changing dynamic resolution state.
+[2019.10.24-07.12.44:359][778]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.24-07.12.44:454][780]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.24-07.12.47:486][915]LogBlueprintUserMessages: [BP_MotionController_C_1] HelloHelloHelloHelloHelloHello
+[2019.10.24-07.12.47:486][915]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.24-07.12.47:486][915]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.24-07.12.55:340][267]LogBlueprintUserMessages: [BP_MotionController_C_1] HelloHelloHelloHelloHelloHello
+[2019.10.24-07.12.55:340][267]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.24-07.12.55:340][267]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.24-07.13.14:434][125]LogBlueprintUserMessages: [BP_MotionController_C_1] HelloHelloHelloHelloHelloHello
+[2019.10.24-07.13.14:434][125]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.24-07.13.14:434][125]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.24-07.13.18:356][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.13.18:391][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-07.13.18:391][302]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-07.13.18:424][302]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.24-07.13.18:431][302]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-07.13.18:443][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-07.13.18:444][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-07.13.18:490][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.10.24-07.13.18:506][303]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.24-07.13.18:507][303]LogEngine: Changing dynamic resolution state.
+[2019.10.24-07.13.42:783][151]BlueprintLog: New page: BP_MotionController 컴파일
+[2019.10.24-07.13.42:971][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.10.24-07.13.43:242][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2019.10.24-07.13.43:405][176]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_MotionControllerD0F3C52A4D5E3E9DF74B5B8159746DB7.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2019.10.24-07.14.01:261][204]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapon/BP_Uzi3.BP_Uzi3
+[2019.10.24-07.15.38:027][739]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.24-07.15.38:191][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.10.24-07.15.38:539][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.24-07.15.38:609][771]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi327F1828F45EEF640D71DC6BC95D13428.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.24-07.15.40:264][953]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.10.24-07.15.40:273][953]LogSlate: Took 0.001147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2019.10.24-07.22.01:766][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.10.24-07.22.01:766][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.24-07.22.02:003][644]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1_Auto12FA75FC441357CC06171D8A204F7E468.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto1.umap'
+[2019.10.24-07.22.02:007][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.274
+[2019.10.24-07.22.02:007][644]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2019.10.24-07.22.02:009][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2019.10.24-07.22.02:009][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2019.10.24-07.22.02:174][644]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_MotionController_Auto18C5BB65643EB0A4223F7DFA400191016.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto1.uasset'
+[2019.10.24-07.22.02:175][644]LogFileHelpers: Auto-saving content packages took 0.167
+[2019.10.24-08.21.51:938][104]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.24-08.21.51:963][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.21.51:964][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-08.21.51:964][104]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오전 2:21:51)
+[2019.10.24-08.21.51:964][104]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-08.21.51:985][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020793s)
+[2019.10.24-08.21.51:986][104]LogAIModule: Creating AISystem for world Level1
+[2019.10.24-08.21.51:986][104]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2019.10.24-08.21.51:986][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.022150s)
+[2019.10.24-08.21.52:019][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.24-08.21.52:031][104]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-08.21.52:040][104]LogInit: FAudioDevice initialized.
+[2019.10.24-08.21.52:045][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-08.21.52:045][104]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-08.21.52:051][104]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.24-17.21.52
+[2019.10.24-08.21.52:051][104]LogWorld: Bringing up level for play took: 0.005221
+[2019.10.24-08.21.52:052][104]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.10.24-08.21.52:057][104]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.503
+[2019.10.24-08.21.52:057][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.22.04:928][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.22.04:929][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-08.22.04:929][627]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-08.22.04:947][627]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.24-08.22.04:951][627]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.22.04:968][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-08.22.04:969][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.22.05:003][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.24-08.22.05:064][628]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.24-08.22.07:129][874]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.24-08.22.07:149][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.22.07:150][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-08.22.07:150][874]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오전 2:22:07)
+[2019.10.24-08.22.07:150][874]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-08.22.07:162][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012221s)
+[2019.10.24-08.22.07:163][874]LogAIModule: Creating AISystem for world Level1
+[2019.10.24-08.22.07:163][874]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2019.10.24-08.22.07:163][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013330s)
+[2019.10.24-08.22.07:194][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.24-08.22.07:204][874]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-08.22.07:213][874]LogInit: FAudioDevice initialized.
+[2019.10.24-08.22.07:218][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-08.22.07:218][874]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-08.22.07:223][874]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.24-17.22.07
+[2019.10.24-08.22.07:224][874]LogWorld: Bringing up level for play took: 0.004643
+[2019.10.24-08.22.07:224][874]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.24-08.22.07:229][874]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.67
+[2019.10.24-08.22.07:229][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.22.10:600][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.22.10:601][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-08.22.10:601][269]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-08.22.10:619][269]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.24-08.22.10:623][269]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.22.10:636][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-08.22.10:636][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.22.10:672][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.24-08.22.10:710][271]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.24-08.22.38:792][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-08.23.07:289][973]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{94f5d545-df9d-4687-8565-abeed06fa1b9} was removed. Shutting down audio device.
+[2019.10.24-08.23.07:312][973]LogInit: XAudio2 using '스피커(Synaptics HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-08.23.07:482][974]LogInit: XAudio2 using '스피커(Synaptics HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-08.23.09:672][210]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-08.23.09:789][216]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-08.23.12:559][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-08.23.16:582][882]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.24-08.23.16:604][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.23.16:605][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-08.23.16:605][882]LogHMD: Initializing OVRPlugin session
+[2019.10.24-08.23.16:694][882]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.24-08.23.16:694][882]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오전 2:23:16)
+[2019.10.24-08.23.16:695][882]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-08.23.16:708][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013112s)
+[2019.10.24-08.23.16:709][882]LogAIModule: Creating AISystem for world Level1
+[2019.10.24-08.23.16:709][882]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2019.10.24-08.23.16:709][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.014363s)
+[2019.10.24-08.23.16:742][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.10.24-08.23.16:758][882]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-08.23.16:767][882]LogInit: FAudioDevice initialized.
+[2019.10.24-08.23.16:773][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-08.23.16:793][882]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-08.23.16:802][882]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.24-17.23.16
+[2019.10.24-08.23.16:803][882]LogWorld: Bringing up level for play took: 0.009445
+[2019.10.24-08.23.16:804][882]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.10.24-08.23.16:811][882]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.251
+[2019.10.24-08.23.16:811][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.23.16:812][882]LogEngine: Changing dynamic resolution state.
+[2019.10.24-08.23.16:815][882]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.24-08.23.16:908][884]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.24-08.23.22:300][247]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.24-08.23.22:300][247]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.24-08.23.39:121][  0]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.24-08.23.39:121][  0]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.24-08.23.45:368][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.23.45:394][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-08.23.45:394][281]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-08.23.45:431][281]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.24-08.23.45:437][281]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.23.45:447][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-08.23.45:447][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.23.45:502][281]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.10.24-08.23.45:517][282]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.24-08.23.45:518][282]LogEngine: Changing dynamic resolution state.
+[2019.10.24-08.23.51:236][964]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.24-08.23.51:260][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.23.51:261][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-08.23.51:261][964]LogHMD: Initializing OVRPlugin session
+[2019.10.24-08.23.51:361][964]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.24-08.23.51:362][964]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오전 2:23:51)
+[2019.10.24-08.23.51:362][964]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-08.23.51:380][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017328s)
+[2019.10.24-08.23.51:381][964]LogAIModule: Creating AISystem for world Level1
+[2019.10.24-08.23.51:381][964]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2019.10.24-08.23.51:381][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.019096s)
+[2019.10.24-08.23.51:422][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.24-08.23.51:437][964]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-08.23.51:449][964]LogInit: FAudioDevice initialized.
+[2019.10.24-08.23.51:455][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-08.23.51:485][964]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-08.23.51:493][964]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.24-17.23.51
+[2019.10.24-08.23.51:493][964]LogWorld: Bringing up level for play took: 0.007852
+[2019.10.24-08.23.51:494][964]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.10.24-08.23.51:499][964]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.94
+[2019.10.24-08.23.51:500][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.23.51:501][964]LogEngine: Changing dynamic resolution state.
+[2019.10.24-08.23.51:505][964]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.24-08.23.51:584][966]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.24-08.23.56:009][168]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.24-08.23.56:009][168]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.24-08.24.03:944][523]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.24-08.24.03:944][523]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.24-08.24.06:790][651]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.24-08.24.06:790][651]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.24-08.24.10:896][836]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.24-08.24.10:896][836]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.24-08.24.18:034][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.24.18:070][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-08.24.18:070][157]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.24-08.24.18:122][157]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.24-08.24.18:128][157]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.24.18:139][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-08.24.18:140][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.24-08.24.18:188][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.10.24-08.24.18:203][158]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.24-08.24.18:204][158]LogEngine: Changing dynamic resolution state.
+[2019.10.24-08.27.59:869][735]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.24-08.29.10:553][949]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.10.24-08.29.14:870][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-08.34.48:247][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.24-08.34.48:247][967]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.037
+[2019.10.24-08.34.48:249][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2019.10.24-08.34.48:249][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2019.10.24-08.34.48:324][967]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/MotionControllerPawn_Auto29CD5117742A9B190A58629A6BFDF29AB.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto2.uasset'
+[2019.10.24-08.34.48:326][967]LogFileHelpers: Auto-saving content packages took 0.077
+[2019.10.24-08.40.26:480][297]LogLinker: Warning: 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Materials/MI_IceCool.uasset' 로드 도중 '/Game/IceCool/Materials/M_IceCool' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2019.10.24-08.40.26:481][297]LogLinker: Warning: 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Materials/MI_IceCool.uasset' 로드 도중 '/Game/IceCool/Materials/M_IceCool' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.10.24-08.40.26:482][297]LogLinker: Warning: 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Materials/MI_IceCool.uasset' 로드 도중 '/Game/IceCool/Materials/M_IceCool' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2019.10.24-08.40.26:482][297]LogLinker: Warning: 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Materials/MI_IceCool.uasset' 로드 도중 '/Game/IceCool/Materials/M_IceCool' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.10.24-08.40.26:483][297]LogLinker: Warning: 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Materials/MI_IceCool.uasset' 로드 도중 '/Game/IceCool/Materials/M_IceCool' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2019.10.24-08.40.26:484][297]LoadErrors: 로드에 실패했습니다. /Game/IceCool/Materials/M_IceCool.M_IceCool 참조한 것: MI_IceCool
+[2019.10.24-08.40.26:484][297]LogLinker: Warning: 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Materials/MI_IceCool.uasset' 로드 도중 '/Game/IceCool/Materials/M_IceCool' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.10.24-08.40.26:498][297]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_IceCool.MI_IceCool
+[2019.10.24-08.40.28:460][485]LogSlate: Window 'MI_IceCool' being destroyed
+[2019.10.24-08.40.28:465][485]LogSlate: Window 'MI_IceCool' being destroyed
+[2019.10.24-08.40.28:503][485]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.40.37:460][487]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.24-08.40.37:460][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:460][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:461][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/MI_IceCool.MI_IceCool' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:461][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:461][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:461][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/M_IceCool.M_IceCool' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:461][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:462][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:462][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_CombinedEffects.MF_CombinedEffects' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:462][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:462][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:463][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_EffectNormal.MF_EffectNormal' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:463][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:463][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:463][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_EffectReflection.MF_EffectReflection' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:464][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:464][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:464][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_EffectRefraction.MF_EffectRefraction' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:464][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:465][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:465][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_ReflectionBox.MF_ReflectionBox' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:465][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:465][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:465][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_RefractionPower.MF_RefractionPower' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:466][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:466][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:466][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_ShapeDisplacement.MF_ShapeDisplacement' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:466][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:467][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:467][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_ShapeLighting.MF_ShapeLighting' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:467][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:467][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:468][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_ShapeVolume.MF_ShapeVolume' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:468][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:468][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:468][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_SimLighting.MF_SimLighting' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:468][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:469][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:469][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_SurfaceClipPlane.MF_SurfaceClipPlane' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:469][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:469][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:469][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_WaterLine.MF_WaterLine' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:470][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:470][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:470][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Effect/MF_WaterPlane.MF_WaterPlane' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:470][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:471][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:471][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_AlphaBlending.MF_AlphaBlending' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:471][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:471][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:471][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_BoxProjectedCubemap.MF_BoxProjectedCubemap' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:472][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:472][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:472][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_BumpOffsetBase.MF_BumpOffsetBase' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:472][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:473][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:473][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_Compare.MF_Compare' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:473][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:473][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:473][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_DepthDust.MF_DepthDust' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:474][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:474][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:474][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_DepthGlass.MF_DepthGlass' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:474][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:475][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:475][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_DepthWet.MF_DepthWet' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:475][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:475][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:476][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_Fresnel.MF_Fresnel' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:476][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:476][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:476][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_IntersectionBox.MF_IntersectionBox' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:477][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:477][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:477][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_IntersectionCylinder.MF_IntersectionCylinder' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:477][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:478][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:478][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_IntersectionEllipsoid.MF_IntersectionEllipsoid' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:478][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:478][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:478][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_IntersectionMesh.MF_IntersectionMesh' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:479][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:479][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:479][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_IntersectionPlane.MF_IntersectionPlane' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:479][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:480][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:480][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_IntersectionSphere.MF_IntersectionSphere' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:480][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:480][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:480][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_Lighting.MF_Lighting' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:481][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:481][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:481][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_LinesMarching.MF_LinesMarching' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:481][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:482][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:482][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_NormalFast.MF_NormalFast' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:482][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:482][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:482][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_NormalMap.MF_NormalMap' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:483][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:483][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:483][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_NormalSobel3.MF_NormalSobel3' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:483][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:484][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:484][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_Refraction.MF_Refraction' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:484][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:484][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:484][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_SobelOffsets.MF_SobelOffsets' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:485][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:485][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:485][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_StaticRefraction.MF_StaticRefraction' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:485][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:486][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:486][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_SubsurfaceScattering.MF_SubsurfaceScattering' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:486][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:486][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:487][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/MF_Voronoi.MF_Voronoi' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.37:487][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:487][487]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.37:487][487]LogUObjectGlobals: Warning: 'Object /Game/Materials/Materials/Utils/PC_IceCool.PC_IceCool' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.47:508][530]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.47:508][530]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.47:508][530]LogUObjectGlobals: Warning: 'Object /Game/Materials/Textures/Additional/T_DustCristal_02.T_DustCristal_02' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.47:509][530]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.47:509][530]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.47:509][530]LogUObjectGlobals: Warning: 'Object /Game/Materials/Textures/Surface/T_IceCool_C.T_IceCool_C' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:205][197]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.24-08.40.53:206][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:206][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:206][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/M_IceCool.M_IceCool' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:206][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:206][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:207][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/MI_IceCool.MI_IceCool' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:207][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:207][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:207][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_BoxProjectedCubemap.MF_BoxProjectedCubemap' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:207][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:207][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:207][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_Fresnel.MF_Fresnel' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:208][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:208][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:208][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_StaticRefraction.MF_StaticRefraction' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:208][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:209][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:209][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_BumpOffsetBase.MF_BumpOffsetBase' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:209][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:209][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:209][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_DepthDust.MF_DepthDust' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:210][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:210][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:210][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/PC_IceCool.PC_IceCool' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:210][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:211][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:211][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_Lighting.MF_Lighting' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:211][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:211][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:211][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_SubsurfaceScattering.MF_SubsurfaceScattering' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:212][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:212][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:212][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_IntersectionBox.MF_IntersectionBox' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:212][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:213][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:213][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_IntersectionPlane.MF_IntersectionPlane' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:213][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:213][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:213][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_IntersectionCylinder.MF_IntersectionCylinder' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:214][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:214][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:214][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_IntersectionEllipsoid.MF_IntersectionEllipsoid' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:214][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:215][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:215][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_IntersectionMesh.MF_IntersectionMesh' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:215][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:215][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:215][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_IntersectionSphere.MF_IntersectionSphere' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:216][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:216][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:216][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_Compare.MF_Compare' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:216][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:217][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:217][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_AlphaBlending.MF_AlphaBlending' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:217][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:217][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:217][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_DepthGlass.MF_DepthGlass' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:218][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:218][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:218][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_DepthWet.MF_DepthWet' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:218][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:219][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:219][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_Refraction.MF_Refraction' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:219][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:219][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:219][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_LinesMarching.MF_LinesMarching' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:220][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:220][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:220][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_NormalFast.MF_NormalFast' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:220][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:221][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:221][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_NormalMap.MF_NormalMap' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:221][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:221][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:221][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_NormalSobel3.MF_NormalSobel3' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:222][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:222][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:222][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_SobelOffsets.MF_SobelOffsets' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:222][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:223][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:223][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Utils/MF_Voronoi.MF_Voronoi' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:223][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:223][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:223][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_EffectNormal.MF_EffectNormal' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:224][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:224][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:224][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_ReflectionBox.MF_ReflectionBox' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:224][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:225][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:225][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_EffectReflection.MF_EffectReflection' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:225][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:225][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:225][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_EffectRefraction.MF_EffectRefraction' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:226][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:226][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:226][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_RefractionPower.MF_RefractionPower' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:226][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:227][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:227][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_ShapeLighting.MF_ShapeLighting' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:227][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:227][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:227][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_ShapeVolume.MF_ShapeVolume' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:228][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:228][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:228][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_SimLighting.MF_SimLighting' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:228][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:229][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:229][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_SurfaceClipPlane.MF_SurfaceClipPlane' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:229][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:229][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:230][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_WaterLine.MF_WaterLine' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:230][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:230][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:230][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_CombinedEffects.MF_CombinedEffects' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:230][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:231][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:231][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_ShapeDisplacement.MF_ShapeDisplacement' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:231][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:231][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:232][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Materials/Effect/MF_WaterPlane.MF_WaterPlane' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:232][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:232][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:232][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Textures/Surface/T_IceCool_C.T_IceCool_C' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.53:232][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:233][197]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.24-08.40.53:233][197]LogUObjectGlobals: Warning: 'Object /Game/Materials/IceCool/Textures/Additional/T_DustCristal_02.T_DustCristal_02' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.24-08.40.57:114][600]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_IceCool.MI_IceCool
+[2019.10.24-08.41.06:778][731]LogSlate: Window 'MI_IceCool' being destroyed
+[2019.10.24-08.41.06:783][731]LogSlate: Window 'MI_IceCool' being destroyed
+[2019.10.24-08.41.06:802][731]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.41.37:096][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Maps/Level1/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.24-08.41.37:131][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.24-08.41.37:374][ 44]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1CD54F678428621D1F3A7608B11F126C0.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Maps/Level1/Level1.umap'
+[2019.10.24-08.41.37:421][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1_BuiltData" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Maps/Level1/Level1_BuiltData.uasset" SILENT=true
+[2019.10.24-08.41.37:454][ 44]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1_BuiltDataD55BC6E54E1A76F798C314895F1DB887.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Maps/Level1/Level1_BuiltData.uasset'
+[2019.10.24-08.42.12:662][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.24-08.42.13:665][161]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.10.24-08.42.13:687][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2019.10.24-08.42.13:856][161]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_MotionController9C1CFBA04EE7F85F8D4C4CBAC497AD5C.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2019.10.24-08.42.13:923][161]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/MotionControllerPawn4708B4394BBDE9EA508E1CBA905C74FF.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.10.24-08.42.14:037][161]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.14:092][161]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-08.42.14:093][161]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.14:131][161]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-08.42.14:131][161]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.14:158][161]LogSlate: Window 'SuperCool - 언리얼 에디터' being destroyed
+[2019.10.24-08.42.14:160][161]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.10.24-08.42.14:271][162]Cmd: QUIT_EDITOR
+[2019.10.24-08.42.14:327][162]LogExit: Preparing to exit.
+[2019.10.24-08.42.15:161][162]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.15:163][162]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.15:165][162]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.15:166][162]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.15:167][162]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.15:169][162]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.15:170][162]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.15:171][162]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.15:172][162]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.15:194][162]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.24-08.42.15:201][162]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-08.42.15:202][162]LogExit: Editor shut down
+[2019.10.24-08.42.15:206][162]LogExit: Transaction tracking system shut down
+[2019.10.24-08.42.15:429][162]LogExit: Object subsystem successfully closed.
+[2019.10.24-08.42.15:453][162]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.24-08.42.15:462][162]LogModuleManager: Shutting down and abandoning module BlueprintGraph (678)
+[2019.10.24-08.42.15:462][162]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2019.10.24-08.42.15:462][162]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2019.10.24-08.42.15:462][162]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (672)
+[2019.10.24-08.42.15:462][162]LogModuleManager: Shutting down and abandoning module SceneOutliner (670)
+[2019.10.24-08.42.15:462][162]LogModuleManager: Shutting down and abandoning module AddContentDialog (668)
+[2019.10.24-08.42.15:462][162]LogModuleManager: Shutting down and abandoning module WidgetCarousel (667)
+[2019.10.24-08.42.15:462][162]LogModuleManager: Shutting down and abandoning module EditorWidgets (664)
+[2019.10.24-08.42.15:462][162]LogModuleManager: Shutting down and abandoning module CollectionManager (662)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module StatsViewer (660)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (658)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module FoliageEdit (656)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module LandscapeEditor (654)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module MeshPaintMode (652)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (650)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module ActorPickerMode (648)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module GeometryMode (646)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module TextureAlignMode (644)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module BspMode (642)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (640)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (638)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module AutomationWorker (636)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module OculusMR (634)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (632)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (630)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (628)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module PlacementMode (627)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module MaterialEditor (626)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (622)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (620)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (618)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (616)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (614)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module WebMMedia (612)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (610)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (608)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module SequenceRecorder (607)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (604)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (602)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (600)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (598)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (596)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (594)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (592)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (590)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (588)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (586)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (584)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module CharacterAI (582)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module SmartSnapping (580)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module SessionServices (578)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module MeshPaint (576)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module ViewportSnapping (574)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module ViewportInteraction (572)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module ClothPainter (570)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (569)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module LogVisualizer (566)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module IntroTutorials (564)
+[2019.10.24-08.42.15:463][162]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (563)
+[2019.10.24-08.42.15:464][162]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (560)
+[2019.10.24-08.42.15:464][162]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (558)
+[2019.10.24-08.42.15:464][162]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (556)
+[2019.10.24-08.42.15:464][162]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (554)
+[2019.10.24-08.42.15:464][162]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (553)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (550)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (548)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (546)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (544)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (542)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module InputBindingEditor (540)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module MergeActors (538)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (536)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module LocalizationService (535)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module HardwareTargeting (532)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (530)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module UndoHistory (528)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module XmlParser (526)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module Blutility (524)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (522)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (521)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (518)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module SettingsEditor (516)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module ProjectLauncher (514)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module SessionFrontend (512)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module ProfilerClient (510)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module DeviceManager (508)
+[2019.10.24-08.42.16:021][162]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (507)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module AutomationController (504)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module AutomationWindow (502)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module Layers (500)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (498)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module DetailCustomizations (496)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module PackagesDialog (494)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (492)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module Persona (490)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (489)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module AnimGraph (487)
+[2019.10.24-08.42.16:065][162]LogModuleManager: Shutting down and abandoning module Kismet (484)
+[2019.10.24-08.42.16:068][162]LogModuleManager: Shutting down and abandoning module KismetWidgets (483)
+[2019.10.24-08.42.16:068][162]LogModuleManager: Shutting down and abandoning module GraphEditor (480)
+[2019.10.24-08.42.16:068][162]LogModuleManager: Shutting down and abandoning module StructViewer (478)
+[2019.10.24-08.42.16:068][162]LogModuleManager: Shutting down and abandoning module ClassViewer (476)
+[2019.10.24-08.42.16:068][162]LogModuleManager: Shutting down and abandoning module Toolbox (474)
+[2019.10.24-08.42.16:068][162]LogModuleManager: Shutting down and abandoning module ModuleUI (472)
+[2019.10.24-08.42.16:068][162]LogModuleManager: Shutting down and abandoning module MovieSceneTools (470)
+[2019.10.24-08.42.16:068][162]LogModuleManager: Shutting down and abandoning module OutputLog (468)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module GammaUI (466)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module Documentation (464)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module LiveCoding (462)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module LevelSequence (460)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (458)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module MovieScene (456)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (454)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module LauncherPlatform (452)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module AnalyticsET (450)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module PortalServices (448)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module PortalRpc (446)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module MessagingRpc (444)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module AIModule (442)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module GameplayDebugger (441)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module AITestSuite (439)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module NavigationSystem (437)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module DesktopPlatform (434)
+[2019.10.24-08.42.16:069][162]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (432)
+[2019.10.24-08.42.16:072][162]LogModuleManager: Shutting down and abandoning module ProfilerService (430)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module TaskGraph (428)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module ScreenshotTools (426)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module SteamVRController (424)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (422)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (420)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module OculusEditor (418)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module OculusInput (416)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (414)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module EditableMesh (412)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (410)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module CableComponent (408)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module AudioCapture (406)
+[2019.10.24-08.42.16:247][162]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (404)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (402)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module AppleImageUtils (400)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module AndroidPermission (398)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (396)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (394)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module MediaCompositing (392)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (388)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (386)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (384)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module HTML5Networking (382)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (380)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (378)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module BackChannel (376)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (374)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module AutomationUtils (372)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module AlembicImporter (370)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module AlembicLibrary (369)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module GeometryCache (368)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (367)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module VariantManagerContent (362)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (360)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (358)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module PluginBrowser (356)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (354)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (352)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module CurveEditorTools (350)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module CurveEditor (349)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (346)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module CryptoKeys (344)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (342)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (340)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module UObjectPlugin (338)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (336)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (334)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module GitSourceControl (332)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module SourceControl (331)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (328)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (326)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (324)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (322)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (320)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (318)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (316)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module Paper2DEditor (314)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module SignificanceManager (312)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (310)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (308)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (304)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (302)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module ApexDestruction (300)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.10.24-08.42.16:248][162]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.10.24-08.42.16:350][162]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.10.24-08.42.16:451][162]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.10.24-08.42.16:451][162]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.10.24-08.42.16:452][162]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.10.24-08.42.16:452][162]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.10.24-08.42.16:452][162]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.10.24-08.42.16:452][162]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.10.24-08.42.16:452][162]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.24-08.42.16:452][162]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.10.24-08.42.16:452][162]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.10.24-08.42.16:454][162]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.10.24-08.42.16:455][162]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.10.24-08.42.16:456][162]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.10.24-08.42.16:528][162]LogDerivedDataCache: Shutdown
+[2019.10.24-08.42.16:528][162]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.10.24-08.42.16:528][162]LogXGEController: Cleaning working directory: C:/Users/bitcamp/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.24-08.42.16:528][162]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.10.24-08.42.16:528][162]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.10.24-08.42.16:528][162]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.10.24-08.42.16:528][162]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.10.24-08.42.16:528][162]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.10.24-08.42.16:528][162]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.10.24-08.42.16:528][162]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.10.24-08.42.16:528][162]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.10.24-08.42.16:528][162]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.10.24-08.42.16:529][162]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.10.24-08.42.16:530][162]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.10.24-08.42.16:530][162]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.10.24-08.42.16:530][162]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.10.24-08.42.16:530][162]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.10.24-08.42.16:534][162]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.10.24-08.42.16:534][162]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.10.24-08.42.16:534][162]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.10.24-08.42.16:534][162]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.10.24-08.42.16:535][162]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.10.24-08.42.16:535][162]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.10.24-08.42.16:536][162]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.24-08.42.16:536][162]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.24-08.42.16:539][162]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.24-08.42.16:539][162]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.24-08.42.16:539][162]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B43EE1F-481D-31FB-887F-C78CCB9B3D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b1bb884a489782bcd5bc44ab065c8a6c%7C5c291c45854c4115845b2030be38c95c%7C86f5d219-038b-4cc1-a3e3-10620ad7b20e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.24-08.42.16:561][162]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.24-08.42.16:561][162]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.24-08.42.16:562][162]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.24-08.42.16:563][162]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.24-08.42.16:566][162]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.24-08.42.16:567][162]LogD3D11RHI: Shutdown
+[2019.10.24-08.42.16:567][162]LogD3D11RHI: CleanupD3DDevice
+[2019.10.24-08.42.16:567][162]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-08.42.16:567][162]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-08.42.16:567][162]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-08.42.16:568][162]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.24-08.42.16:579][162]LogExit: Exiting.
+[2019.10.24-08.42.16:589][162]Log file closed, 10/24/19 17:42:16

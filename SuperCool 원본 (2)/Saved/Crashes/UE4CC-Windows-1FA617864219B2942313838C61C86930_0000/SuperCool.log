@@ -1,0 +1,1755 @@
+﻿Log file open, 10/25/19 14:55:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SuperCool
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.065543
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.25-05.55.05:759][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.25-05.55.05:759][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.25-05.55.05:760][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.25-05.55.05:760][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.25-05.55.05:760][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.25-05.55.05:760][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.25-05.55.05:760][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.25-05.55.05:760][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.25-05.55.05:761][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.25-05.55.05:761][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.25-05.55.05:762][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.25-05.55.05:762][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.25-05.55.05:762][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.25-05.55.05:764][  0]LogHAL: Display: Platform has ~ 32 GB [34122735616 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.25-05.55.05:764][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.25-05.55.05:764][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.25-05.55.05:764][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.25-05.55.05:765][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Config/Windows/Engine.ini]
+[2019.10.25-05.55.05:765][  0]LogInit: Computer: BIT
+[2019.10.25-05.55.05:765][  0]LogInit: User: bitcamp
+[2019.10.25-05.55.05:765][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.25-05.55.05:765][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.25-05.55.05:766][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.10.25-05.55.05:766][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.25-05.55.05:766][  0]LogMemory: Process Physical Memory: 110.18 MB used, 110.18 MB peak
+[2019.10.25-05.55.05:766][  0]LogMemory: Process Virtual Memory: 106.62 MB used, 106.62 MB peak
+[2019.10.25-05.55.05:766][  0]LogMemory: Physical Memory: 8175.05 MB used,  24366.92 MB free, 32541.98 MB total
+[2019.10.25-05.55.05:766][  0]LogMemory: Virtual Memory: 4730.73 MB used,  134213000.00 MB free, 134217728.00 MB total
+[2019.10.25-05.55.05:768][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.25-05.55.05:784][  0]LogInit: Using OS detected language (ko-KR).
+[2019.10.25-05.55.05:784][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.10.25-05.55.05:785][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.10.25-05.55.05:847][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.25-05.55.05:880][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.25-05.55.05:880][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.25-05.55.05:987][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.25-05.55.06:003][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.25-05.55.06:003][  0]LogD3D11RHI:       128/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.25-05.55.06:076][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.10.25-05.55.06:076][  0]LogD3D11RHI:       8010/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2019.10.25-05.55.06:078][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.25-05.55.06:078][  0]LogD3D11RHI:       0/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.25-05.55.06:078][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.10.25-05.55.06:084][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.25-05.55.06:084][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.25-05.55.06:084][  0]LogWindows: EnumDisplayDevices:
+[2019.10.25-05.55.06:084][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.25-05.55.06:085][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.25-05.55.06:085][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.25-05.55.06:085][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.25-05.55.06:085][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.10.25-05.55.06:085][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.25-05.55.06:085][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.25-05.55.06:085][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.25-05.55.06:085][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.10.25-05.55.06:085][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.10.25-05.55.06:085][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.10.25-05.55.06:085][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.10.25-05.55.06:131][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.25-05.55.06:141][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.25-05.55.06:396][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.25-05.55.06:402][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.25-05.55.06:407][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.25-05.55.06:413][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.25-05.55.06:419][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.25-05.55.06:425][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.25-05.55.06:431][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.25-05.55.06:437][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.25-05.55.06:439][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.25-05.55.06:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.25-05.55.06:464][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.25-05.55.06:475][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.25-05.55.06:475][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.25-05.55.06:485][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.25-05.55.06:485][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.25-05.55.06:490][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.25-05.55.06:495][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.25-05.55.06:501][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.25-05.55.06:507][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.25-05.55.06:524][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.25-05.55.06:524][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.25-05.55.06:524][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.25-05.55.06:530][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.25-05.55.06:572][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (C:/Users/bitcamp/Desktop/SuperCool 원본/Intermediate/Shaders/WorkingDirectory/15876/).
+[2019.10.25-05.55.06:572][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bitcamp/AppData/Local/Temp/UnrealShaderWorkingDir/C89DAABA403E38884C5EB3878CA3FAB3/'.
+[2019.10.25-05.55.06:573][  0]LogXGEController: Cleaning working directory: C:/Users/bitcamp/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.25-05.55.06:573][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.25-05.55.06:573][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.25-05.55.06:573][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.25-05.55.07:097][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.25-05.55.07:139][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/bitcamp/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.25-05.55.07:139][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bitcamp/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.25-05.55.07:139][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/bitcamp/Desktop/SuperCool 원본/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.25-05.55.07:139][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.25-05.55.07:139][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/bitcamp/Desktop/SuperCool 원본/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.25-05.55.07:139][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.25-05.55.07:148][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.25-05.55.07:148][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.25-05.55.07:148][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.25-05.55.07:149][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bitcamp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.25-05.55.07:149][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.25-05.55.07:149][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.25-05.55.07:168][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.25-05.55.07:170][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.25-05.55.07:171][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.25-05.55.07:212][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2019.10.25-05.55.07:427][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.25-05.55.07:541][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.25-05.55.07:541][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.25-05.55.07:541][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.25-05.55.07:541][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.25-05.55.07:541][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.25-05.55.07:548][  0]LogNetVersion: SuperCool 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 576053900)
+[2019.10.25-05.55.07:867][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.041142 seconds
+[2019.10.25-05.55.07:874][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.25-05.55.07:874][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.25-05.55.07:874][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.25-05.55.08:464][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.25-05.55.08:466][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.25-05.55.08:512][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.25-05.55.08:512][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.25-05.55.08:513][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.25-05.55.08:513][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.25-05.55.08:572][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.25-05.55.08:716][  0]LogOcInput: OculusInput pre-init called
+[2019.10.25-05.55.09:161][  0]LogEngine: Initializing Engine...
+[2019.10.25-05.55.09:161][  0]LogHMD: Oculus plugin initialized. Version: 4.23.1-9631420+++UE4+Release-4.23, OVRPlugin: 1.37.0
+[2019.10.25-05.55.09:162][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.25-05.55.09:334][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.25-05.55.09:342][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.25-05.55.09:378][  0]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.25-05.55.09:457][  0]LogInit: FAudioDevice initialized.
+[2019.10.25-05.55.09:457][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.25-05.55.09:528][  0]LogDerivedDataCache: Saved boot cache 0.07s 76MB C:/Users/bitcamp/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.25-05.55.09:538][  0]LogInit: Texture streaming: Enabled
+[2019.10.25-05.55.09:549][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.25-05.55.09:549][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.10.25-05.55.09:549][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.10.25-05.55.09:612][  0]LogInit: Transaction tracking system initialized
+[2019.10.25-05.55.09:629][  0]BlueprintLog: New page: 에디터 로드
+[2019.10.25-05.55.09:673][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.10.25-05.55.09:707][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.25-05.55.09:707][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.25-05.55.09:707][  0]LogUObjectGlobals: Warning: 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C' 오브젝트를 찾는 데 실패했습니다.
+[2019.10.25-05.55.09:834][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.25-05.55.09:834][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.25-05.55.09:949][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/' took 0.01s
+[2019.10.25-05.55.09:949][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.25-05.55.09:949][  0]Cmd: MAP LOAD FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Maps/Level1/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.25-05.55.09:950][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.25-05.55.09:951][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-05.55.09:951][  0]MapCheck: New page: 맵 체크
+[2019.10.25-05.55.09:951][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.25-05.55.09:975][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.10.25-05.55.10:326][  0]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-05.55.10:337][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.25-05.55.10:369][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.10.25-05.55.10:369][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.25-05.55.10:369][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.113ms.
+[2019.10.25-05.55.10:369][  0]LogFileHelpers: Loading map 'Level1' took 0.420
+[2019.10.25-05.55.10:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.55.10:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.55.10:477][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.55.10:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.55.10:485][  0]LogCollectionManager: Loaded 0 collections in 0.000865 seconds
+[2019.10.25-05.55.10:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Collections/' took 0.00s
+[2019.10.25-05.55.10:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Developers/bitcamp/Collections/' took 0.00s
+[2019.10.25-05.55.10:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Collections/' took 0.00s
+[2019.10.25-05.55.10:489][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.25-05.55.10:495][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 2872 classes and 685 folders.
+[2019.10.25-05.55.10:500][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.25-05.55.10:526][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.25-05.55.10:530][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.25-05.55.10:595][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.25-05.55.10:597][  0]LogSlate: Took 0.001444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.25-05.55.10:599][  0]LogSlate: Took 0.001421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.10.25-05.55.10:599][  0]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.25-05.55.10:603][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.25-05.55.10:656][  0]LogRenderer: Reallocating scene render targets to support 1124x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.25-05.55.10:793][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.25-05.55.10:793][  0]LogLoad: (Engine Initialization) Total time: 5.76 seconds
+[2019.10.25-05.55.10:793][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.25-05.55.10:808][  0]LogOcInput: OculusInput is initialized
+[2019.10.25-05.55.10:841][  0]LogAssetRegistry: Asset discovery search completed in 3.6294 seconds
+[2019.10.25-05.55.10:845][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.25-05.55.10:845][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2019.10.25-05.55.10:846][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.25-05.55.10:875][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.25-05.55.27:033][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-05.55.27:121][537]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-05.55.27:140][537]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.55.27:140][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-05.55.27:140][537]LogHMD: Initializing OVRPlugin session
+[2019.10.25-05.55.27:273][537]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-05.55.27:285][537]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오후 11:55:27)
+[2019.10.25-05.55.27:286][537]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.25-05.55.27:287][537]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.55.27:303][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015893s)
+[2019.10.25-05.55.27:304][537]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-05.55.27:304][537]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2019.10.25-05.55.27:304][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.017024s)
+[2019.10.25-05.55.27:326][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.25-05.55.27:344][537]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.55.27:356][537]LogInit: FAudioDevice initialized.
+[2019.10.25-05.55.27:368][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.55.27:890][537]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-05.55.27:930][537]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-14.55.27
+[2019.10.25-05.55.27:930][537]LogWorld: Bringing up level for play took: 0.028309
+[2019.10.25-05.55.27:930][537]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.25-05.55.27:962][537]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.10.25-05.55.27:967][537]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 1.75
+[2019.10.25-05.55.27:968][537]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.55.27:968][537]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.55.27:994][537]LogRenderer: Reallocating scene render targets to support 2688x1600 Format 10 NumSamples 1 (Frame:1).
+[2019.10.25-05.55.27:994][537]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-05.55.28:043][539]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-05.55.31:708][756]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.55.31:746][756]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.55.51:931][ 87]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-05.55.51:931][ 87]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-05.55.59:331][420]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-05.55.59:331][420]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-05.56.09:272][872]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.56.09:299][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.56.09:299][872]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.56.09:360][872]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-05.56.09:363][872]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-05.56.09:371][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-05.56.09:371][872]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.56.09:436][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.10.25-05.56.09:447][873]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.25-05.56.09:448][873]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.56.11:495][ 10]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-05.56.11:514][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.56.11:514][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-05.56.11:514][ 10]LogHMD: Initializing OVRPlugin session
+[2019.10.25-05.56.11:586][ 10]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-05.56.11:587][ 10]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오후 11:56:11)
+[2019.10.25-05.56.11:588][ 10]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.56.11:600][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012589s)
+[2019.10.25-05.56.11:601][ 10]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-05.56.11:601][ 10]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2019.10.25-05.56.11:601][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013475s)
+[2019.10.25-05.56.11:623][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.10.25-05.56.11:635][ 10]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.56.11:642][ 10]LogInit: FAudioDevice initialized.
+[2019.10.25-05.56.11:654][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.56.11:674][ 10]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-05.56.11:679][ 10]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-14.56.11
+[2019.10.25-05.56.11:679][ 10]LogWorld: Bringing up level for play took: 0.004468
+[2019.10.25-05.56.11:679][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.25-05.56.11:685][ 10]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.532
+[2019.10.25-05.56.11:685][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.56.11:685][ 10]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.56.11:689][ 10]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-05.56.11:768][ 12]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-05.56.16:231][256]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-05.56.16:231][256]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-05.56.21:359][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.56.21:383][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.56.21:383][487]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.56.21:415][487]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-05.56.21:418][487]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-05.56.21:427][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-05.56.21:428][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.56.21:460][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.25-05.56.21:471][488]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.25-05.56.21:472][488]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.56.24:696][697]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-05.56.24:716][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.56.24:716][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-05.56.24:716][697]LogHMD: Initializing OVRPlugin session
+[2019.10.25-05.56.24:806][697]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-05.56.24:807][697]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오후 11:56:24)
+[2019.10.25-05.56.24:807][697]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.56.24:823][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016181s)
+[2019.10.25-05.56.24:824][697]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-05.56.24:824][697]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.10.25-05.56.24:824][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.017129s)
+[2019.10.25-05.56.24:846][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.25-05.56.24:858][697]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.56.24:865][697]LogInit: FAudioDevice initialized.
+[2019.10.25-05.56.24:878][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.56.24:912][697]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-05.56.24:917][697]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-14.56.24
+[2019.10.25-05.56.24:918][697]LogWorld: Bringing up level for play took: 0.005246
+[2019.10.25-05.56.24:918][697]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.25-05.56.24:923][697]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.705
+[2019.10.25-05.56.24:923][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.56.24:923][697]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.56.24:927][697]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-05.56.25:022][699]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-05.56.29:053][945]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.56.29:086][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.56.29:086][945]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.56.29:120][945]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-05.56.29:122][945]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-05.56.29:131][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-05.56.29:132][945]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.56.29:162][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.25-05.56.29:177][946]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.25-05.56.29:177][946]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.56.37:568][591]MapCheck: New page: 맵 체크
+[2019.10.25-05.56.37:586][591]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.25-05.56.37:586][591]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.25-05.56.37:691][591]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=false
+[2019.10.25-05.56.37:744][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.10.25-05.56.37:866][591]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-05.56.37:874][591]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-05.56.37:880][591]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2019.10.25-05.56.37:880][591]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2019.10.25-05.56.37:880][591]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-05.56.37:887][591]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-05.56.37:898][591]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.10.25-05.56.37:923][591]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-05.56.37:931][591]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 44
+[2019.10.25-05.56.37:931][591]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 43
+[2019.10.25-05.56.37:931][591]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 42
+[2019.10.25-05.56.37:931][591]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2019.10.25-05.56.37:931][591]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 40
+[2019.10.25-05.56.37:931][591]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2019.10.25-05.56.37:931][591]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 40
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 39
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 31
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2019.10.25-05.56.39:396][591]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2019.10.25-05.56.39:396][591]TextureStreamingBuild: Display: Compiling optional shaders took 1.537 seconds.
+[2019.10.25-05.56.39:414][591]LogLevel: Display: Export Material TexCoord Scales took 0.017 seconds.
+[2019.10.25-05.56.39:532][591]TextureStreamingBuild: Display: Build Texture Streaming took 0.119 seconds.
+[2019.10.25-05.56.39:562][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.25-05.56.39:562][591]LightingResults: New page: 라이팅 빌드 - 2019. 10. 25. 오후 11:56:39
+[2019.10.25-05.56.39:632][591]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.25-05.56.39:786][591]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.25-05.56.39:812][591]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.25-05.56.40:883][591]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.25-05.56.40:883][591]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15876
+[2019.10.25-05.56.43:345][591]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.25-05.56.43:345][591]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.25-05.56.43:345][591]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.25-05.56.43:345][591]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.25-05.56.43:345][591]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.25-05.56.43:345][591]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.25-05.56.43:491][591]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.25-05.56.43:491][591]MapCheck: New page: Level1 - 2019. 10. 25. 오후 11:56:43
+[2019.10.25-05.56.43:491][591]MapCheck: Error: WorldSettings 맵 라이팅을 리빌드해야 합니다. 
+[2019.10.25-05.56.43:492][591]MapCheck: 맵 체크 완료: 오류 1 회, 경고 0 회, 소요 시간 1.025ms.
+[2019.10.25-05.56.43:493][591]LogEditorBuildUtils: Build time 0:05
+[2019.10.25-05.56.43:580][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.25-05.56.48:443][930]Job is a success!
+[2019.10.25-05.56.48:502][931]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.25-05.56.48:536][931]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.10.25-05.56.48:536][931]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.25-05.56.48:536][931]LogVolumetricLightmapImport:      BrickData 345x5x5 = 0.3Mb
+[2019.10.25-05.56.48:537][931]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.25-05.56.48:537][931]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2019.10.25-05.56.48:537][931]LogVolumetricLightmapImport:          1: 5.8% covering 6.3% of volume
+[2019.10.25-05.56.48:537][931]LogVolumetricLightmapImport:          2: 92.8% covering 1.6% of volume
+[2019.10.25-05.56.49:285][931]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.10.25-05.56.49:285][931]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.25-05.56.49:285][931]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.25-05.56.49:285][931]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.10.25-05.56.49:285][931]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.10.25-05.56.49:285][931]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.10.25-05.56.49:460][931]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.10.25-05.56.49:486][931]LogStaticLightingSystem: Level1_BuiltData storing lightmap data for 252 meshes in 4 LightmapResourceClusters (63.0 Meshes per cluster).
+[2019.10.25-05.56.49:487][931]Lightmass on BIT: 5.19 sec total, 164 ms importing, 69 ms setup, 637 ms photons, 4.30 sec processing, 0 ms extra exporting [252/252 mappings]. Threads: 47.3 sec total, 30.7 sec processing.
+[2019.10.25-05.56.49:512][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.25-05.56.49:517][931]LogStaticLightingSystem: Illumination: 9.91 sec (656 ms encoding lightmaps, 168 ms encoding shadowmaps)
+[2019.10.25-05.56.49:517][931]LogStaticLightingSystem: Lightmap texture memory:  5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.10.25-05.56.49:517][931]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.10.25-05.56.50:351][931]DumpUnbuiltLightIteractions
+[2019.10.25-05.56.50:351][931]Lights with unbuilt interactions: 0
+[2019.10.25-05.56.50:351][931]
+[2019.10.25-05.56.50:351][931]Primitives with unbuilt interactions: 0
+[2019.10.25-05.56.50:406][932]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.25-05.56.50:406][932]MapCheck: New page: Level1 - 2019. 10. 25. 오후 11:56:50
+[2019.10.25-05.56.50:407][932]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1.217ms.
+[2019.10.25-05.57.03:739][531]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-05.57.03:760][531]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.57.03:760][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-05.57.03:760][531]LogHMD: Initializing OVRPlugin session
+[2019.10.25-05.57.03:836][531]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-05.57.03:837][531]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오후 11:57:03)
+[2019.10.25-05.57.03:837][531]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.57.03:848][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012417s)
+[2019.10.25-05.57.03:849][531]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-05.57.03:849][531]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2019.10.25-05.57.03:849][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013310s)
+[2019.10.25-05.57.03:871][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.25-05.57.03:883][531]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.57.03:892][531]LogInit: FAudioDevice initialized.
+[2019.10.25-05.57.03:903][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.57.03:924][531]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-05.57.03:929][531]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-14.57.03
+[2019.10.25-05.57.03:929][531]LogWorld: Bringing up level for play took: 0.004323
+[2019.10.25-05.57.03:929][531]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.25-05.57.03:936][531]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.282
+[2019.10.25-05.57.03:936][531]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.57.03:936][531]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.57.03:940][531]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-05.57.07:118][705]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-05.57.07:118][705]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-05.57.07:140][707]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-05.57.14:793][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.57.14:830][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.57.14:830][165]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.57.14:863][165]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-05.57.14:866][165]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-05.57.14:874][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-05.57.14:875][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.57.14:911][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.25-05.57.14:929][166]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.25-05.57.14:929][166]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.57.16:646][372]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-05.57.16:664][372]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.57.16:664][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-05.57.16:664][372]LogHMD: Initializing OVRPlugin session
+[2019.10.25-05.57.16:744][372]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-05.57.16:745][372]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오후 11:57:16)
+[2019.10.25-05.57.16:745][372]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.57.16:766][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020977s)
+[2019.10.25-05.57.16:767][372]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-05.57.16:768][372]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2019.10.25-05.57.16:768][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.022386s)
+[2019.10.25-05.57.16:791][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.25-05.57.16:804][372]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.57.16:813][372]LogInit: FAudioDevice initialized.
+[2019.10.25-05.57.16:826][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.57.16:850][372]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-05.57.16:858][372]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-14.57.16
+[2019.10.25-05.57.16:859][372]LogWorld: Bringing up level for play took: 0.008098
+[2019.10.25-05.57.16:859][372]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.25-05.57.16:866][372]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.648
+[2019.10.25-05.57.16:866][372]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.57.16:868][372]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.57.16:871][372]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-05.57.21:967][684]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-05.57.21:967][684]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-05.57.21:990][686]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-05.57.40:111][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.57.40:135][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.57.40:135][332]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.57.40:165][332]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-05.57.40:174][332]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-05.57.40:188][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-05.57.40:188][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.57.40:655][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.25-05.57.40:664][333]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.25-05.57.40:664][333]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.57.48:094][634]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapon/BP_Uzi3.BP_Uzi3
+[2019.10.25-05.57.48:261][634]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.10.25-05.57.48:888][634]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.25-05.57.48:916][635]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.25-05.59.25:150][911]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.25-05.59.25:316][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.10.25-05.59.25:658][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.25-05.59.25:736][939]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi346497FE74DF5C93C8B294B908BA8942C.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.25-05.59.26:740][ 55]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-05.59.26:761][ 55]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.59.26:761][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-05.59.26:761][ 55]LogHMD: Initializing OVRPlugin session
+[2019.10.25-05.59.26:838][ 55]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-05.59.26:839][ 55]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오후 11:59:26)
+[2019.10.25-05.59.26:839][ 55]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.59.26:852][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013259s)
+[2019.10.25-05.59.26:853][ 55]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-05.59.26:853][ 55]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2019.10.25-05.59.26:853][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.014250s)
+[2019.10.25-05.59.26:883][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.10.25-05.59.26:895][ 55]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.59.26:903][ 55]LogInit: FAudioDevice initialized.
+[2019.10.25-05.59.26:916][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.59.26:934][ 55]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-05.59.26:939][ 55]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-14.59.26
+[2019.10.25-05.59.26:939][ 55]LogWorld: Bringing up level for play took: 0.004600
+[2019.10.25-05.59.26:939][ 55]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.10.25-05.59.26:946][ 55]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.728
+[2019.10.25-05.59.26:946][ 55]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.59.26:946][ 55]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.59.26:950][ 55]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-05.59.31:997][346]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-05.59.31:997][346]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-05.59.32:010][348]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-05.59.36:835][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.59.36:872][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.59.36:872][639]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.59.36:909][639]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-05.59.36:912][639]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-05.59.36:931][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-05.59.36:931][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.59.36:972][639]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2019.10.25-05.59.36:987][640]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.25-05.59.36:988][640]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.59.39:615][955]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-05.59.39:636][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.59.39:636][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-05.59.39:636][955]LogHMD: Initializing OVRPlugin session
+[2019.10.25-05.59.39:715][955]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-05.59.39:715][955]PIE: New page: PIE 세션: Level1 (2019. 10. 25. 오후 11:59:39)
+[2019.10.25-05.59.39:716][955]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.59.39:729][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013081s)
+[2019.10.25-05.59.39:729][955]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-05.59.39:730][955]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.10.25-05.59.39:730][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.014011s)
+[2019.10.25-05.59.39:757][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.25-05.59.39:768][955]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-05.59.39:776][955]LogInit: FAudioDevice initialized.
+[2019.10.25-05.59.39:791][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.59.39:808][955]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-05.59.39:817][955]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-14.59.39
+[2019.10.25-05.59.39:818][955]LogWorld: Bringing up level for play took: 0.008516
+[2019.10.25-05.59.39:818][955]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.10.25-05.59.39:827][955]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.391
+[2019.10.25-05.59.39:827][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.59.39:827][955]LogEngine: Changing dynamic resolution state.
+[2019.10.25-05.59.39:831][955]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-05.59.45:015][272]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-05.59.45:015][272]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-05.59.45:030][274]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-05.59.57:607][603]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.59.57:635][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-05.59.57:635][603]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-05.59.57:668][603]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-05.59.57:671][603]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-05.59.57:687][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-05.59.57:687][603]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-05.59.57:917][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.25-05.59.57:929][604]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.25-05.59.57:929][604]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.04.10:795][936]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={5087A628-4D75-7B98-2A8D-6A89A03CF59F}
+[2019.10.25-06.07.10:101][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.10.25-06.07.10:102][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.25-06.07.10:342][438]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1_Auto147716A3C4E3571C97049D38D26152453.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto1.umap'
+[2019.10.25-06.07.10:347][438]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.273
+[2019.10.25-06.07.10:347][438]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.273
+[2019.10.25-06.17.10:261][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.10.25-06.17.10:261][413]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.030
+[2019.10.25-06.23.12:363][233]LogInit: XAudio2 using '헤드폰(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.25-06.24.18:576][847]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.25-06.24.18:735][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.25-06.24.19:047][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.25-06.24.19:127][872]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi38D68416F4EE6E9104071B981905028CE.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.25-06.24.20:024][975]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.24.20:045][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.24.20:045][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.24.20:045][975]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.24.20:152][975]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.24.20:153][975]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:24:20)
+[2019.10.25-06.24.20:153][975]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.24.20:170][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016265s)
+[2019.10.25-06.24.20:170][975]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.24.20:170][975]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2019.10.25-06.24.20:170][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.017228s)
+[2019.10.25-06.24.20:199][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.25-06.24.20:216][975]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.24.20:226][975]LogInit: FAudioDevice initialized.
+[2019.10.25-06.24.20:237][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.24.20:253][975]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.24.20:257][975]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.24.20
+[2019.10.25-06.24.20:258][975]LogWorld: Bringing up level for play took: 0.004334
+[2019.10.25-06.24.20:258][975]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.10.25-06.24.20:263][975]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.045
+[2019.10.25-06.24.20:263][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.24.20:263][975]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.24.20:267][975]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.24.25:675][264]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.24.25:675][264]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.24.25:699][266]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.24.33:304][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.24.33:330][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.24.33:330][702]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.24.33:366][702]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.24.33:369][702]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.24.33:388][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.24.33:388][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.24.33:427][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.25-06.24.33:439][703]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.25-06.24.33:439][703]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.24.40:984][ 20]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.24.41:002][ 20]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.24.41:002][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.24.41:002][ 20]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.24.41:074][ 20]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.24.41:075][ 20]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:24:41)
+[2019.10.25-06.24.41:075][ 20]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.24.41:087][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012225s)
+[2019.10.25-06.24.41:088][ 20]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.24.41:088][ 20]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2019.10.25-06.24.41:088][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013110s)
+[2019.10.25-06.24.41:115][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.25-06.24.41:132][ 20]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.24.41:141][ 20]LogInit: FAudioDevice initialized.
+[2019.10.25-06.24.41:152][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.24.41:169][ 20]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.24.41:174][ 20]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.24.41
+[2019.10.25-06.24.41:175][ 20]LogWorld: Bringing up level for play took: 0.005087
+[2019.10.25-06.24.41:175][ 20]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.10.25-06.24.41:179][ 20]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.962
+[2019.10.25-06.24.41:180][ 20]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.24.41:180][ 20]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.24.41:183][ 20]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.24.46:276][340]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.24.46:276][340]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.24.46:300][342]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.24.53:456][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.24.53:485][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.24.53:485][770]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.24.53:521][770]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.24.53:524][770]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.24.53:538][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.24.53:539][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.24.53:580][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.10.25-06.24.53:596][771]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.10.25-06.24.53:597][771]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.25.13:765][143]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.25.15:563][345]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapon/BP_Uzi3.BP_Uzi3
+[2019.10.25-06.27.35:899][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.10.25-06.27.35:900][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.25-06.27.36:146][118]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1_Auto23CA98EE344316C3F3027A095AB481726.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto2.umap'
+[2019.10.25-06.27.36:149][118]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.274
+[2019.10.25-06.27.36:149][118]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2019.10.25-06.27.36:150][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapon/BP_Uzi3] ([1] browsable assets)...
+[2019.10.25-06.27.36:150][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/BP_Uzi3]
+[2019.10.25-06.27.36:150][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Weapon/BP_Uzi3_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.10.25-06.27.36:220][118]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi3_Auto264B5DA8844F315977F7C8194972FBC9E.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Weapon/BP_Uzi3_Auto2.uasset'
+[2019.10.25-06.27.36:221][118]LogFileHelpers: Auto-saving content packages took 0.071
+[2019.10.25-06.28.08:480][949]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2019.10.25-06.28.28:127][195]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.25-06.28.28:294][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.10.25-06.28.28:923][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.25-06.28.28:997][261]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi333C1B57E40AC04FB562451B9876122EE.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.25-06.28.30:462][430]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.28.30:483][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.28.30:483][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.28.30:483][430]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.28.30:562][430]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.28.30:563][430]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:28:30)
+[2019.10.25-06.28.30:563][430]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.28.30:576][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012511s)
+[2019.10.25-06.28.30:576][430]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.28.30:577][430]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2019.10.25-06.28.30:577][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013386s)
+[2019.10.25-06.28.30:607][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.10.25-06.28.30:624][430]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.28.30:636][430]LogInit: FAudioDevice initialized.
+[2019.10.25-06.28.30:649][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.28.30:670][430]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.28.30:674][430]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.28.30
+[2019.10.25-06.28.30:675][430]LogWorld: Bringing up level for play took: 0.004402
+[2019.10.25-06.28.30:675][430]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.10.25-06.28.30:680][430]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.462
+[2019.10.25-06.28.30:680][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.28.30:680][430]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.28.30:684][430]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.28.35:026][704]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.28.35:026][704]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.28.35:043][706]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.28.44:519][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.28.44:542][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.28.44:542][135]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.28.44:575][135]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.28.44:577][135]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.28.44:600][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.28.44:601][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.28.44:641][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.10.25-06.28.44:657][136]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.25-06.28.44:658][136]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.28.47:378][462]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.28.47:398][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.28.47:398][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.28.47:398][462]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.28.47:478][462]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.28.47:478][462]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:28:47)
+[2019.10.25-06.28.47:478][462]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.28.47:492][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013689s)
+[2019.10.25-06.28.47:493][462]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.28.47:493][462]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2019.10.25-06.28.47:493][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.015093s)
+[2019.10.25-06.28.47:526][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.25-06.28.47:549][462]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.28.47:560][462]LogInit: FAudioDevice initialized.
+[2019.10.25-06.28.47:574][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.28.47:595][462]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.28.47:606][462]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.28.47
+[2019.10.25-06.28.47:606][462]LogWorld: Bringing up level for play took: 0.010326
+[2019.10.25-06.28.47:607][462]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.10.25-06.28.47:615][462]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.602
+[2019.10.25-06.28.47:615][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.28.47:616][462]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.28.47:621][462]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.28.54:394][880]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.28.54:394][880]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.28.54:411][882]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.29.04:835][506]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.29.04:869][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.29.04:869][506]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.29.04:904][506]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.29.04:906][506]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.29.04:922][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.29.04:923][506]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.29.04:961][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.10.25-06.29.04:975][507]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.25-06.29.04:975][507]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.29.06:467][686]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.29.06:487][686]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.29.06:487][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.29.06:487][686]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.29.06:565][686]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.29.06:566][686]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:29:06)
+[2019.10.25-06.29.06:566][686]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.29.06:578][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012591s)
+[2019.10.25-06.29.06:579][686]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.29.06:579][686]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2019.10.25-06.29.06:579][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013522s)
+[2019.10.25-06.29.06:603][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.25-06.29.06:620][686]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.29.06:627][686]LogInit: FAudioDevice initialized.
+[2019.10.25-06.29.06:640][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.29.06:658][686]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.29.06:663][686]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.29.06
+[2019.10.25-06.29.06:663][686]LogWorld: Bringing up level for play took: 0.004431
+[2019.10.25-06.29.06:663][686]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.25-06.29.06:668][686]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.45
+[2019.10.25-06.29.06:668][686]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.29.06:668][686]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.29.06:672][686]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.29.10:329][919]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.29.10:329][919]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.29.10:342][921]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.29.16:238][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.29.16:266][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.29.16:266][273]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.29.16:299][273]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.29.16:302][273]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.29.16:310][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.29.16:311][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.29.16:346][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.10.25-06.29.16:360][274]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.25-06.29.16:360][274]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.29.24:077][192]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2019.10.25-06.29.25:999][374]LogSlate: Window 'StandardMacros' being destroyed
+[2019.10.25-06.29.26:007][374]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.38.17:677][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.10.25-06.38.17:677][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.25-06.38.17:947][725]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1_Auto3E579BF3C4105BDFFE653ECA3F8714DCB.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto3.umap'
+[2019.10.25-06.38.17:950][725]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.301
+[2019.10.25-06.38.17:950][725]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.301
+[2019.10.25-06.42.00:080][ 40]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.25-06.42.00:246][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.10.25-06.42.00:704][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.25-06.42.00:783][ 85]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi38EE287C84EF8A68C984CCEBFE13618CF.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.25-06.42.03:311][381]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.42.03:332][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.42.03:332][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.42.03:332][381]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.42.03:407][381]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.42.03:408][381]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:42:03)
+[2019.10.25-06.42.03:408][381]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.42.03:421][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012336s)
+[2019.10.25-06.42.03:421][381]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.42.03:422][381]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2019.10.25-06.42.03:422][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013265s)
+[2019.10.25-06.42.03:453][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.10.25-06.42.03:471][381]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.42.03:480][381]LogInit: FAudioDevice initialized.
+[2019.10.25-06.42.03:491][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.42.03:505][381]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.42.03:510][381]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.42.03
+[2019.10.25-06.42.03:510][381]LogWorld: Bringing up level for play took: 0.004595
+[2019.10.25-06.42.03:511][381]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.10.25-06.42.03:516][381]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.701
+[2019.10.25-06.42.03:517][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.42.03:517][381]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.42.03:520][381]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.42.09:387][747]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.42.09:387][747]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.42.09:410][749]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.42.11:807][892]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:307][922]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:371][926]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:391][927]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:412][928]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:423][929]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:444][930]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:454][931]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:475][932]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:487][933]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:507][934]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:530][935]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:539][936]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:560][937]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:571][938]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:592][939]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:604][940]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:624][941]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:645][942]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:656][943]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:677][944]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:688][945]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:708][946]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:709][946]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:721][947]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:740][948]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:762][949]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:772][950]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:792][951]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:804][952]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:824][953]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:845][954]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:845][954]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:856][955]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:877][956]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:877][956]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:888][957]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:888][957]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:910][958]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:910][958]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:921][959]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:921][959]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:942][960]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:942][960]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:964][961]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:964][961]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:973][962]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:973][962]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:995][963]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.12:995][963]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:005][964]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:005][964]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:027][965]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:027][965]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:038][966]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:038][966]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:058][967]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:058][967]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:079][968]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:079][968]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:089][969]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:090][969]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:110][970]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:111][970]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:122][971]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:122][971]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:141][972]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:141][972]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:162][973]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:162][973]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:174][974]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:174][974]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:195][975]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:196][975]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:205][976]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:205][976]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:227][977]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:227][977]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:238][978]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:238][978]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:258][979]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:258][979]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:279][980]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:279][980]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:290][981]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:290][981]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:312][982]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.13:313][982]LogBlueprintUserMessages: [BP_Uzi3_2] X=0.000 Y=-0.000 Z=0.000
+[2019.10.25-06.42.18:291][280]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.42.18:312][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.42.18:312][280]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.42.18:346][280]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.42.18:348][280]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.42.18:365][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.42.18:365][280]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.42.18:404][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.25-06.42.18:417][281]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.25-06.42.18:417][281]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.43.07:358][ 72]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.25-06.43.07:521][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.10.25-06.43.07:736][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.25-06.43.07:812][ 88]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi3E8525AFE48239EF15DD6449363A61241.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.25-06.43.09:040][228]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.43.09:060][228]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.43.09:060][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.43.09:060][228]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.43.09:131][228]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.43.09:132][228]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:43:09)
+[2019.10.25-06.43.09:132][228]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.43.09:144][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012217s)
+[2019.10.25-06.43.09:145][228]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.43.09:145][228]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2019.10.25-06.43.09:145][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013106s)
+[2019.10.25-06.43.09:172][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.10.25-06.43.09:189][228]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.43.09:199][228]LogInit: FAudioDevice initialized.
+[2019.10.25-06.43.09:211][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.43.09:231][228]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.43.09:235][228]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.43.09
+[2019.10.25-06.43.09:236][228]LogWorld: Bringing up level for play took: 0.004214
+[2019.10.25-06.43.09:236][228]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.10.25-06.43.09:240][228]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 1.023
+[2019.10.25-06.43.09:240][228]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.43.09:241][228]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.43.09:243][228]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.43.15:509][618]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.43.15:509][618]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.43.15:522][620]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.43.18:773][814]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:145][836]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:156][837]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:177][838]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:188][839]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:209][840]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:221][841]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:241][842]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:263][843]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:273][844]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:295][845]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:305][846]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:326][847]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:338][848]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:358][849]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:378][850]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:389][851]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:410][852]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:421][853]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:442][854]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:454][855]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:475][856]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:497][857]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:507][858]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:529][859]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:539][860]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:560][861]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:572][862]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:592][863]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:613][864]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:623][865]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:644][866]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:655][867]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:676][868]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:688][869]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:709][870]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:730][871]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:739][872]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:761][873]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:771][874]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:793][875]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:805][876]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:825][877]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:846][878]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:856][879]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.19:877][880]LogBlueprintUserMessages: [BP_Uzi3_2] X=19.209 Y=-9.481 Z=16.269
+[2019.10.25-06.43.25:169][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.43.25:198][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.43.25:198][197]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.43.25:232][197]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.43.25:234][197]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.43.25:257][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.43.25:257][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.43.25:301][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.25-06.43.25:315][198]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.25-06.43.25:315][198]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.44.23:325][ 71]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.25-06.44.23:489][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.10.25-06.44.23:801][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.25-06.44.23:876][ 99]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi3201C2ECE4FD6511175992BAF13E79F8F.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.25-06.44.29:987][827]LogEditorTransaction: Undo 노드 이동
+[2019.10.25-06.44.44:747][570]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.25-06.44.44:909][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.10.25-06.44.45:348][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.25-06.44.45:423][611]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi37315E86B4084D95A57212A8A036CA298.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.25-06.44.57:763][ 68]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.44.57:783][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.44.57:783][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.44.57:783][ 68]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.44.57:859][ 68]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.44.57:859][ 68]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:44:57)
+[2019.10.25-06.44.57:860][ 68]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.44.57:872][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012272s)
+[2019.10.25-06.44.57:873][ 68]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.44.57:873][ 68]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2019.10.25-06.44.57:873][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013337s)
+[2019.10.25-06.44.57:899][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.10.25-06.44.57:916][ 68]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.44.57:926][ 68]LogInit: FAudioDevice initialized.
+[2019.10.25-06.44.57:937][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.44.57:952][ 68]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.44.57:957][ 68]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.44.57
+[2019.10.25-06.44.57:958][ 68]LogWorld: Bringing up level for play took: 0.005426
+[2019.10.25-06.44.57:958][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.10.25-06.44.57:963][ 68]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.255
+[2019.10.25-06.44.57:963][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.44.57:963][ 68]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.44.57:967][ 68]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.45.16:721][207]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.45.16:721][207]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.45.16:744][209]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.45.27:352][844]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.45.27:388][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.45.27:388][844]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.45.27:424][844]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.45.27:427][844]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.45.27:454][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.45.27:454][844]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.45.27:499][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.10.25-06.45.27:512][845]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.25-06.45.27:512][845]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.45.28:749][993]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.45.28:767][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.45.28:768][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.45.28:768][993]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.45.28:843][993]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.45.28:843][993]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:45:28)
+[2019.10.25-06.45.28:844][993]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.45.28:858][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014233s)
+[2019.10.25-06.45.28:859][993]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.45.28:859][993]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2019.10.25-06.45.28:859][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.015690s)
+[2019.10.25-06.45.28:889][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.10.25-06.45.28:910][993]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.45.28:918][993]LogInit: FAudioDevice initialized.
+[2019.10.25-06.45.28:933][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.45.28:952][993]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.45.28:957][993]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.45.28
+[2019.10.25-06.45.28:957][993]LogWorld: Bringing up level for play took: 0.004498
+[2019.10.25-06.45.28:957][993]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.10.25-06.45.28:963][993]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.745
+[2019.10.25-06.45.28:963][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.45.28:964][993]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.45.28:967][993]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.45.35:159][378]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.45.35:159][378]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.45.35:181][380]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.45.46:510][ 58]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.45.46:536][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.45.46:536][ 58]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.45.46:568][ 58]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.45.46:572][ 58]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.45.46:579][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.45.46:580][ 58]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.45.46:619][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.10.25-06.45.46:632][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.25-06.45.46:632][ 59]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.45.57:138][314]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.45.57:158][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.45.57:158][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.45.57:158][314]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.45.57:229][314]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.45.57:230][314]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:45:57)
+[2019.10.25-06.45.57:230][314]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.45.57:244][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013600s)
+[2019.10.25-06.45.57:245][314]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.45.57:245][314]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2019.10.25-06.45.57:245][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.014526s)
+[2019.10.25-06.45.57:272][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.25-06.45.57:289][314]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.45.57:298][314]LogInit: FAudioDevice initialized.
+[2019.10.25-06.45.57:311][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.45.57:327][314]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.45.57:333][314]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.45.57
+[2019.10.25-06.45.57:333][314]LogWorld: Bringing up level for play took: 0.005180
+[2019.10.25-06.45.57:333][314]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.10.25-06.45.57:338][314]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 1.12
+[2019.10.25-06.45.57:338][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.45.57:338][314]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.45.57:341][314]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.46.01:066][552]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.46.01:066][552]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.46.01:089][554]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.46.12:069][211]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.46.12:097][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.46.12:097][211]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.46.12:131][211]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.46.12:134][211]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.46.12:156][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.46.12:156][211]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.46.12:190][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.25-06.46.12:204][212]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.25-06.46.12:204][212]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.50.07:081][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level1Assets_RightWall16)
+[2019.10.25-06.50.11:863][359]LogEditorViewport: Clicking Background
+[2019.10.25-06.50.39:521][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.25-06.50.39:522][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.25-06.50.39:789][839]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1_Auto41A7764DD4FF3027DC9D9D19361CFB792.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto4.umap'
+[2019.10.25-06.50.39:791][839]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.301
+[2019.10.25-06.50.39:791][839]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.301
+[2019.10.25-06.50.39:793][839]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapon/BP_Uzi3] ([1] browsable assets)...
+[2019.10.25-06.50.39:793][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/BP_Uzi3]
+[2019.10.25-06.50.39:793][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Weapon/BP_Uzi3_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.10.25-06.50.39:876][839]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi3_Auto42995BD2041FF12DB8B0BB3A8F7079BDD.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Weapon/BP_Uzi3_Auto4.uasset'
+[2019.10.25-06.50.39:876][839]LogFileHelpers: Auto-saving content packages took 0.084
+[2019.10.25-06.58.30:466][654]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2019.10.25-06.58.58:958][182]LogEditorViewport: Clicking on Actor (LMB): BP_Uzi3_C (BP_Uzi3)
+[2019.10.25-06.59.11:138][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-06.59.21:857][785]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.25-06.59.22:047][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.10.25-06.59.22:329][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.25-06.59.22:407][809]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi375586C1A464D23F19AAA7495E2A43EAB.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.25-06.59.24:080][  4]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-06.59.24:101][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.59.24:101][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-06.59.24:101][  4]LogHMD: Initializing OVRPlugin session
+[2019.10.25-06.59.24:176][  4]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-06.59.24:177][  4]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 12:59:24)
+[2019.10.25-06.59.24:177][  4]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.59.24:189][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012076s)
+[2019.10.25-06.59.24:190][  4]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-06.59.24:190][  4]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2019.10.25-06.59.24:190][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013055s)
+[2019.10.25-06.59.24:220][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.10.25-06.59.24:238][  4]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-06.59.24:247][  4]LogInit: FAudioDevice initialized.
+[2019.10.25-06.59.24:259][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.59.24:274][  4]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-06.59.24:279][  4]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-15.59.24
+[2019.10.25-06.59.24:279][  4]LogWorld: Bringing up level for play took: 0.004500
+[2019.10.25-06.59.24:280][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.10.25-06.59.24:285][  4]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.067
+[2019.10.25-06.59.24:285][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.59.24:286][  4]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.59.24:289][  4]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-06.59.28:539][275]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-06.59.28:539][275]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-06.59.28:563][277]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-06.59.42:376][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.59.42:406][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-06.59.42:406][104]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-06.59.42:441][104]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-06.59.42:444][104]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-06.59.42:465][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-06.59.42:465][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-06.59.42:508][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.10.25-06.59.42:521][105]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.25-06.59.42:522][105]LogEngine: Changing dynamic resolution state.
+[2019.10.25-06.59.44:719][364]LogAssetEditorManager: Opening Asset editor for DestructibleMesh /Game/Weapon/Uzi_Mesh_DM.Uzi_Mesh_DM
+[2019.10.25-06.59.54:997][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-07.00.15:764][661]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-07.00.57:281][481]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.25-07.00.57:445][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.10.25-07.00.57:767][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.25-07.00.57:843][510]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi30454B50147049EC96E3099BC1CE1E808.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.25-07.00.58:733][609]LogTemp: Repeating last play command: VR 프리뷰
+[2019.10.25-07.00.58:754][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-07.00.58:754][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-07.00.58:754][609]LogHMD: Initializing OVRPlugin session
+[2019.10.25-07.00.58:829][609]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.25-07.00.58:829][609]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오전 1:00:58)
+[2019.10.25-07.00.58:829][609]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-07.00.58:842][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012375s)
+[2019.10.25-07.00.58:843][609]LogAIModule: Creating AISystem for world Level1
+[2019.10.25-07.00.58:843][609]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2019.10.25-07.00.58:843][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013305s)
+[2019.10.25-07.00.58:874][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.10.25-07.00.58:891][609]LogInit: XAudio2 using '헤드폰(Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.25-07.00.58:900][609]LogInit: FAudioDevice initialized.
+[2019.10.25-07.00.58:911][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-07.00.58:932][609]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-07.00.58:936][609]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.25-16.00.58
+[2019.10.25-07.00.58:937][609]LogWorld: Bringing up level for play took: 0.004425
+[2019.10.25-07.00.58:937][609]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.10.25-07.00.58:942][609]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.724
+[2019.10.25-07.00.58:942][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-07.00.58:942][609]LogEngine: Changing dynamic resolution state.
+[2019.10.25-07.00.58:946][609]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.10.25-07.01.03:601][902]LogBlueprintUserMessages: [BP_Uzi3_2] calle success
+[2019.10.25-07.01.03:601][902]LogBlueprintUserMessages: [BP_Uzi3_2] BP_Uzi3
+[2019.10.25-07.01.03:622][904]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.10.25-07.01.04:154][935]LogBlueprintUserMessages: [BP_Uzi3_2] 9
+[2019.10.25-07.01.04:602][962]LogBlueprintUserMessages: [BP_Uzi3_2] 8
+[2019.10.25-07.01.04:827][975]LogBlueprintUserMessages: [BP_Uzi3_2] 7
+[2019.10.25-07.01.05:011][986]LogBlueprintUserMessages: [BP_Uzi3_2] 6
+[2019.10.25-07.01.05:173][996]LogBlueprintUserMessages: [BP_Uzi3_2] 5
+[2019.10.25-07.01.05:354][  7]LogBlueprintUserMessages: [BP_Uzi3_2] 4
+[2019.10.25-07.01.05:527][ 17]LogBlueprintUserMessages: [BP_Uzi3_2] 3
+[2019.10.25-07.01.05:709][ 28]LogBlueprintUserMessages: [BP_Uzi3_2] 2
+[2019.10.25-07.01.05:891][ 39]LogBlueprintUserMessages: [BP_Uzi3_2] 1
+[2019.10.25-07.01.06:072][ 50]LogBlueprintUserMessages: [BP_Uzi3_2] 0
+[2019.10.25-07.01.06:254][ 61]LogBlueprintUserMessages: [BP_Uzi3_2] -1
+[2019.10.25-07.01.06:456][ 73]LogBlueprintUserMessages: [BP_Uzi3_2] -2
+[2019.10.25-07.01.06:627][ 83]LogBlueprintUserMessages: [BP_Uzi3_2] -3
+[2019.10.25-07.01.06:829][ 95]LogBlueprintUserMessages: [BP_Uzi3_2] -4
+[2019.10.25-07.01.07:138][114]LogBlueprintUserMessages: [BP_Uzi3_2] -5
+[2019.10.25-07.01.07:357][127]LogBlueprintUserMessages: [BP_Uzi3_2] -6
+[2019.10.25-07.01.07:791][153]LogBlueprintUserMessages: [BP_Uzi3_2] -7
+[2019.10.25-07.01.08:022][167]LogBlueprintUserMessages: [BP_Uzi3_2] -8
+[2019.10.25-07.01.08:222][179]LogBlueprintUserMessages: [BP_Uzi3_2] -9
+[2019.10.25-07.01.08:426][191]LogBlueprintUserMessages: [BP_Uzi3_2] -10
+[2019.10.25-07.01.08:597][201]LogBlueprintUserMessages: [BP_Uzi3_2] -11
+[2019.10.25-07.01.08:814][214]LogBlueprintUserMessages: [BP_Uzi3_2] -12
+[2019.10.25-07.01.08:979][224]LogBlueprintUserMessages: [BP_Uzi3_2] -13
+[2019.10.25-07.01.09:231][239]LogBlueprintUserMessages: [BP_Uzi3_2] -14
+[2019.10.25-07.01.09:427][251]LogBlueprintUserMessages: [BP_Uzi3_2] -15
+[2019.10.25-07.01.09:558][259]LogBlueprintUserMessages: [BP_Uzi3_2] -16
+[2019.10.25-07.01.09:799][273]LogBlueprintUserMessages: [BP_Uzi3_2] -17
+[2019.10.25-07.01.09:995][285]LogBlueprintUserMessages: [BP_Uzi3_2] -18
+[2019.10.25-07.01.10:244][300]LogBlueprintUserMessages: [BP_Uzi3_2] -19
+[2019.10.25-07.01.10:441][312]LogBlueprintUserMessages: [BP_Uzi3_2] -20
+[2019.10.25-07.01.10:699][327]LogBlueprintUserMessages: [BP_Uzi3_2] -21
+[2019.10.25-07.01.10:925][341]LogBlueprintUserMessages: [BP_Uzi3_2] -22
+[2019.10.25-07.01.11:141][354]LogBlueprintUserMessages: [BP_Uzi3_2] -23
+[2019.10.25-07.01.11:346][366]LogBlueprintUserMessages: [BP_Uzi3_2] -24
+[2019.10.25-07.01.11:582][380]LogBlueprintUserMessages: [BP_Uzi3_2] -25
+[2019.10.25-07.01.11:817][394]LogBlueprintUserMessages: [BP_Uzi3_2] -26
+[2019.10.25-07.01.12:476][434]LogBlueprintUserMessages: [BP_Uzi3_2] -27
+[2019.10.25-07.01.12:699][447]LogBlueprintUserMessages: [BP_Uzi3_2] -28
+[2019.10.25-07.01.12:910][460]LogBlueprintUserMessages: [BP_Uzi3_2] -29
+[2019.10.25-07.01.13:133][473]LogBlueprintUserMessages: [BP_Uzi3_2] -30
+[2019.10.25-07.01.13:346][486]LogBlueprintUserMessages: [BP_Uzi3_2] -31
+[2019.10.25-07.01.13:643][504]LogBlueprintUserMessages: [BP_Uzi3_2] -32
+[2019.10.25-07.01.13:866][517]LogBlueprintUserMessages: [BP_Uzi3_2] -33
+[2019.10.25-07.01.14:051][528]LogBlueprintUserMessages: [BP_Uzi3_2] -34
+[2019.10.25-07.01.14:282][542]LogBlueprintUserMessages: [BP_Uzi3_2] -35
+[2019.10.25-07.01.14:787][572]LogBlueprintUserMessages: [BP_Uzi3_2] -36
+[2019.10.25-07.01.16:232][659]LogBlueprintUserMessages: [BP_Uzi3_2] -37
+[2019.10.25-07.01.16:480][674]LogBlueprintUserMessages: [BP_Uzi3_2] -38
+[2019.10.25-07.01.16:706][687]LogBlueprintUserMessages: [BP_Uzi3_2] -39
+[2019.10.25-07.01.16:921][700]LogBlueprintUserMessages: [BP_Uzi3_2] -40
+[2019.10.25-07.01.17:148][714]LogBlueprintUserMessages: [BP_Uzi3_2] -41
+[2019.10.25-07.01.17:584][740]LogBlueprintUserMessages: [BP_Uzi3_2] -42
+[2019.10.25-07.01.23:510][ 95]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-07.01.23:541][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-07.01.23:541][ 95]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.25-07.01.23:576][ 95]LogSlate: Window 'SuperCool 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.10.25-07.01.23:579][ 95]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-07.01.23:598][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-07.01.23:598][ 95]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.25-07.01.23:632][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.25-07.01.23:647][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.25-07.01.23:647][ 96]LogEngine: Changing dynamic resolution state.
+[2019.10.25-07.01.26:604][449]LogEditorViewport: Clicking on Actor (LMB): BP_Uzi3_C (BP_Uzi3)
+[2019.10.25-07.01.33:971][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-07.01.41:072][132]BlueprintLog: New page: BP_Uzi3 컴파일
+[2019.10.25-07.01.41:259][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.10.25-07.01.41:450][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset" SILENT=true
+[2019.10.25-07.01.41:525][146]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi39148437943C60EA5AC45D5A1D86BAAE3.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Weapon/BP_Uzi3.uasset'
+[2019.10.25-07.02.50:786][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-07.02.52:760][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.25-07.02.52:761][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.25-07.02.53:004][692]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1_Auto598478AB341D654A8335395A24D520946.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto5.umap'
+[2019.10.25-07.02.53:007][692]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.274
+[2019.10.25-07.02.53:007][692]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2019.10.25-07.03.04:930][ 70]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.10.25-07.05.16:117][188]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.10.25-07.05.40:459][ 55]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-07.05.41:397][157]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.25-07.05.41:397][157]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-07.05.42:238][252]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.25-07.05.42:238][252]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-07.05.44:495][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.10.25-07.05.44:956][567]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube4)
+[2019.10.25-07.06.34:024][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-07.12.53:597][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.25-07.12.53:597][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.037
+[2019.10.25-07.12.53:599][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2019.10.25-07.12.53:599][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2019.10.25-07.12.53:664][381]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/MotionControllerPawn_Auto6126615844FD18E410F15AF89C868977A.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto6.uasset'
+[2019.10.25-07.12.53:664][381]LogFileHelpers: Auto-saving content packages took 0.066
+[2019.10.25-07.15.39:437][729]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.10.25-07.15.44:165][256]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.10.25-07.16.00:308][ 35]LogEditorTransaction: Undo 컴포넌트 추가
+[2019.10.25-07.22.54:161][674]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.10.25-07.22.54:162][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.25-07.22.54:451][674]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1_Auto77D3976AA4A347C9FB0682B92E7D4D055.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto7.umap'
+[2019.10.25-07.22.54:456][674]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.332
+[2019.10.25-07.22.54:456][674]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.332
+[2019.10.25-07.22.54:459][674]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2019.10.25-07.22.54:459][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2019.10.25-07.22.54:527][674]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/MotionControllerPawn_Auto7FAEADB224063A3D66C96059B56068023.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto7.uasset'
+[2019.10.25-07.22.54:528][674]LogFileHelpers: Auto-saving content packages took 0.071
+[2019.10.25-07.37.30:235][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.10.25-07.37.31:013][953]LogEditorViewport: Clicking on Actor (LMB): BP_Uzi3_C (BP_Uzi3)
+[2019.10.25-07.37.34:488][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-07.37.38:251][764]BlueprintLog: New page: MotionControllerPawn 컴파일
+[2019.10.25-07.37.38:439][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.25-07.37.38:852][797]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/MotionControllerPawn7605FBB047F4598EDCF3F0B73533A73F.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.10.25-07.37.39:818][849]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.10.25-07.37.47:384][638]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.10.25-07.37.52:270][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level1Assets_LeftLowerWall10)
+[2019.10.25-07.37.52:668][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level1Assets_Floor46)
+[2019.10.25-07.37.52:954][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level1Assets_Floor14)
+[2019.10.25-07.37.53:512][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-07.38.15:459][859]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapon/BP_Uzi3.BP_Uzi3
+[2019.10.25-07.39.42:796][256]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.10.25-07.39.42:797][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.25-07.39.43:038][256]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1_Auto8D39C21E7484DE3FBBA196D823C9574B0.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Maps/Level1/Level1_Auto8.umap'
+[2019.10.25-07.39.43:040][256]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.277
+[2019.10.25-07.39.43:040][256]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2019.10.25-07.40.28:820][736]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapon/BP_desuzi.BP_desuzi
+[2019.10.25-07.40.30:785][941]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-07.40.30:841][941]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weapon/BP_desuzi.BP_desuzi
+[2019.10.25-07.40.34:207][314]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-07.47.38:462][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Maps/Level1/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.25-07.47.38:501][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.10.25-07.47.38:748][444]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level150672D634118D8A0E3899DA883789969.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Maps/Level1/Level1.umap'
+[2019.10.25-07.47.38:791][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1_BuiltData" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Maps/Level1/Level1_BuiltData.uasset" SILENT=true
+[2019.10.25-07.47.38:980][444]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Level1_BuiltData0FCFA7774559DFDFA9689D81184D9EFF.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Content/Maps/Level1/Level1_BuiltData.uasset'
+[2019.10.25-07.54.01:120][284]LogEditorViewport: Clicking on Actor (LMB): BP_Uzi3_C (BP_Uzi3)
+[2019.10.25-07.54.02:392][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level1Assets_Floor14)
+[2019.10.25-07.54.02:707][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level1Assets_Floor44)
+[2019.10.25-07.54.03:245][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Level1Assets_Pillar16)
+[2019.10.25-07.57.38:288][313]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-07.57.38:338][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.10.25-07.57.38:338][313]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.039
+[2019.10.25-07.57.38:340][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/BP_Uzi3] ([1] browsable assets)...
+[2019.10.25-07.57.38:352][313]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Weapon/BP_Uzi3.BP_Uzi3]
+[2019.10.25-07.57.38:352][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/BP_Uzi3]
+[2019.10.25-07.57.38:352][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BP_Uzi3" FILE="C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Weapon/BP_Uzi3_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2019.10.25-07.57.38:434][313]LogSavePackage: Moving 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/BP_Uzi3_Auto996A4D7D74CB0656E1C1EA4BB9049F512.tmp' to 'C:/Users/bitcamp/Desktop/SuperCool 원본/Saved/Autosaves/Game/Weapon/BP_Uzi3_Auto9.uasset'
+[2019.10.25-07.57.38:435][313]LogFileHelpers: Auto-saving content packages took 0.095
+[2019.10.25-08.05.06:966][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.10.25-08.05.08:216][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-08.05.58:539][706]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.25-08.05.58:539][706]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-08.06.01:061][  2]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.25-08.06.01:061][  2]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-08.06.05:033][435]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.10.25-08.08.08:825][759]LogUObjectArray: Warning: Other object in slot
+[2019.10.25-08.08.08:826][759]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.25-08.08.09:154][759]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.328 s
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: 
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: Stack: 
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: [Callstack] 0x00007ffdb0eb5279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: [Callstack] 0x00007ffdb06d7fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: [Callstack] 0x00007ffdb06e622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: [Callstack] 0x00007ffdac3f6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: [Callstack] 0x00007ffdac854dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: [Callstack] 0x00007ffdac80e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: [Callstack] 0x00007ffdbba8d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.25-08.08.09:154][759]LogOutputDevice: Error: [Callstack] 0x00007ffdbbc7c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffdbbad922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffdbbab5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffdbbaa9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffdfe304c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffdfe2f26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffdfe307340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffdfe2eedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffe3211ca66 USER32.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffe3211c582 USER32.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffdfe3088e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ff738126980 UE4Editor.exe!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ff73813a91c UE4Editor.exe!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ff73813a9fa UE4Editor.exe!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ff73814b92c UE4Editor.exe!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ff73814e60e UE4Editor.exe!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffe31e27974 KERNEL32.DLL!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: [Callstack] 0x00007ffe338ca271 ntdll.dll!UnknownFunction []
+[2019.10.25-08.08.09:155][759]LogOutputDevice: Error: 
+[2019.10.25-08.08.09:168][759]LogStats:                SubmitErrorReport -  0.000 s
