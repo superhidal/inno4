@@ -1,0 +1,1088 @@
+﻿Log file open, 10/26/19 11:04:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SuperCool
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.060043
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GoogleVRController
+LogPluginManager: Mounting plugin GoogleVRHMD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Engine.ini]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Engine.ini]
+[2019.10.26-02.04.25:057][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Engine.ini]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.26-02.04.25:057][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Engine.ini]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.26-02.04.25:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Engine.ini]
+[2019.10.26-02.04.25:058][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Engine.ini]
+[2019.10.26-02.04.25:060][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.26-02.04.25:060][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.26-02.04.25:060][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.26-02.04.25:060][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.26-02.04.25:062][  0]LogHAL: Display: Platform has ~ 32 GB [34122735616 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.26-02.04.25:062][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.26-02.04.25:062][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:062][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.26-02.04.25:062][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.26-02.04.25:062][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Scalability.ini]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.26-02.04.25:063][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.26-02.04.25:063][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.26-02.04.25:064][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.26-02.04.25:064][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Config/Windows/Engine.ini]
+[2019.10.26-02.04.25:064][  0]LogInit: Computer: DESKTOP-CRKGE1U
+[2019.10.26-02.04.25:064][  0]LogInit: User: st
+[2019.10.26-02.04.25:064][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.26-02.04.25:064][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.26-02.04.25:064][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.10.26-02.04.25:064][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.26-02.04.25:064][  0]LogMemory: Process Physical Memory: 103.35 MB used, 103.36 MB peak
+[2019.10.26-02.04.25:064][  0]LogMemory: Process Virtual Memory: 103.14 MB used, 103.14 MB peak
+[2019.10.26-02.04.25:064][  0]LogMemory: Physical Memory: 7504.55 MB used,  25037.43 MB free, 32541.98 MB total
+[2019.10.26-02.04.25:064][  0]LogMemory: Virtual Memory: 4703.84 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2019.10.26-02.04.25:066][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.26-02.04.25:085][  0]LogInit: Using OS detected language (ko-KR).
+[2019.10.26-02.04.25:085][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.10.26-02.04.25:085][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.10.26-02.04.25:150][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.26-02.04.25:185][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.26-02.04.25:185][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.26-02.04.25:307][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.26-02.04.25:307][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.26-02.04.25:338][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.26-02.04.25:338][  0]LogD3D11RHI:       128/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.26-02.04.25:400][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.10.26-02.04.25:400][  0]LogD3D11RHI:       8010/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2019.10.26-02.04.25:402][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.26-02.04.25:402][  0]LogD3D11RHI:       0/0/16270 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.26-02.04.25:402][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.10.26-02.04.25:408][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.26-02.04.25:408][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.26-02.04.25:408][  0]LogWindows: EnumDisplayDevices:
+[2019.10.26-02.04.25:408][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.26-02.04.25:408][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.26-02.04.25:408][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.26-02.04.25:408][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.10.26-02.04.25:408][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.10.26-02.04.25:409][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.26-02.04.25:409][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.26-02.04.25:409][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.26-02.04.25:409][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.10.26-02.04.25:409][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.10.26-02.04.25:409][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.10.26-02.04.25:409][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.10.26-02.04.25:447][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.26-02.04.25:457][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.26-02.04.25:716][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.26-02.04.25:723][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.26-02.04.25:731][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.26-02.04.25:739][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.26-02.04.25:746][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.26-02.04.25:753][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.26-02.04.25:761][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.26-02.04.25:768][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.26-02.04.25:772][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.26-02.04.25:798][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.26-02.04.25:799][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.26-02.04.25:799][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.26-02.04.25:799][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.26-02.04.25:799][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.26-02.04.25:800][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.26-02.04.25:814][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.26-02.04.25:814][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.26-02.04.25:824][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.26-02.04.25:825][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.26-02.04.25:830][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.26-02.04.25:836][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.26-02.04.25:841][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.26-02.04.25:848][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.26-02.04.25:867][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.26-02.04.25:867][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.26-02.04.25:867][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.26-02.04.25:874][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.26-02.04.25:916][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Intermediate/Shaders/WorkingDirectory/14388/).
+[2019.10.26-02.04.25:916][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tmdgu/AppData/Local/Temp/UnrealShaderWorkingDir/20426ADE4CE18A852BBAE68FC40F8E66/'.
+[2019.10.26-02.04.25:918][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.26-02.04.25:918][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.26-02.04.25:918][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.26-02.04.26:388][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.26-02.04.26:429][  0]LogDerivedDataCache: Loaded boot cache 0.04s 84MB C:/Users/tmdgu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.26-02.04.26:429][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tmdgu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.26-02.04.26:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.26-02.04.26:430][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.26-02.04.26:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.26-02.04.26:430][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.26-02.04.26:438][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.26-02.04.26:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.26-02.04.26:438][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.26-02.04.26:439][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tmdgu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.26-02.04.26:439][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.26-02.04.26:439][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.26-02.04.26:456][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.26-02.04.26:459][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.26-02.04.26:460][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.26-02.04.26:505][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2019.10.26-02.04.26:723][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.26-02.04.26:842][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.26-02.04.26:842][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.26-02.04.26:842][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.26-02.04.26:842][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.26-02.04.26:842][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.26-02.04.26:849][  0]LogNetVersion: SuperCool 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 576053900)
+[2019.10.26-02.04.27:235][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.046169 seconds
+[2019.10.26-02.04.27:241][  0]LogUObjectArray: 44137 objects as part of root set at end of initial load.
+[2019.10.26-02.04.27:241][  0]LogUObjectAllocator: 7739352 out of 0 bytes used by permanent object pool.
+[2019.10.26-02.04.27:241][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.26-02.04.27:846][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.26-02.04.27:848][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.26-02.04.27:886][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.26-02.04.27:886][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.26-02.04.27:887][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.26-02.04.27:888][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.26-02.04.27:951][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.26-02.04.28:034][  0]LogOcInput: OculusInput pre-init called
+[2019.10.26-02.04.28:039][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.26-02.04.28:039][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.26-02.04.28:090][  0]LogEngine: Initializing Engine...
+[2019.10.26-02.04.28:097][  0]LogInstantPreview: Warning: Adb Not Detected.  Please set the ANDROID_HOME environment variable to your Android SDK directory and restart the Unreal editor.
+[2019.10.26-02.04.28:097][  0]LogHMD: GoogleVR API created
+[2019.10.26-02.04.28:097][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.26-02.04.28:257][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.26-02.04.28:270][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.26-02.04.28:281][  0]LogInit: XAudio2 using '스피커(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-02.04.28:291][  0]LogInit: FAudioDevice initialized.
+[2019.10.26-02.04.28:291][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.26-02.04.28:408][  0]LogDerivedDataCache: Saved boot cache 0.12s 84MB C:/Users/tmdgu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.26-02.04.28:414][  0]LogInit: Texture streaming: Enabled
+[2019.10.26-02.04.28:429][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.26-02.04.28:429][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.10.26-02.04.28:429][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.10.26-02.04.28:495][  0]LogInit: Transaction tracking system initialized
+[2019.10.26-02.04.28:521][  0]BlueprintLog: New page: 에디터 로드
+[2019.10.26-02.04.28:587][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.10.26-02.04.28:769][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/' took 0.00s
+[2019.10.26-02.04.28:769][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.26-02.04.28:769][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.26-02.04.28:899][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.10.26-02.04.28:899][  0]Cmd: MAP LOAD FILE="../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-02.04.28:899][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.26-02.04.28:901][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.04.28:901][  0]MapCheck: New page: 맵 체크
+[2019.10.26-02.04.28:901][  0]LightingResults: New page: 라이팅 빌드
+[2019.10.26-02.04.28:928][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.10.26-02.04.29:121][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.26-02.04.29:131][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-02.04.29:157][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.10.26-02.04.29:157][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-02.04.29:157][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.13ms.
+[2019.10.26-02.04.29:157][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.259
+[2019.10.26-02.04.29:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-02.04.29:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-02.04.29:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-02.04.29:260][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-02.04.29:265][  0]LogCollectionManager: Loaded 0 collections in 0.001707 seconds
+[2019.10.26-02.04.29:269][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Collections/' took 0.00s
+[2019.10.26-02.04.29:269][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/Developers/st/Collections/' took 0.00s
+[2019.10.26-02.04.29:269][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/Collections/' took 0.00s
+[2019.10.26-02.04.29:269][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.26-02.04.29:275][  0]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 2886 classes and 692 folders.
+[2019.10.26-02.04.29:280][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2019.10.26-02.04.29:309][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.26-02.04.29:314][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.26-02.04.29:389][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.26-02.04.29:391][  0]LogSlate: Took 0.001319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.10.26-02.04.29:393][  0]LogSlate: Took 0.001283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.10.26-02.04.29:393][  0]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.26-02.04.29:396][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.26-02.04.29:439][  0]LogRenderer: Reallocating scene render targets to support 1204x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.26-02.04.29:513][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.26-02.04.29:513][  0]LogLoad: (Engine Initialization) Total time: 5.37 seconds
+[2019.10.26-02.04.29:513][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.26-02.04.29:532][  0]LogGoogleVRController: Creating Input Device: GoogleVRController -- Supported
+[2019.10.26-02.04.29:532][  0]LogGoogleVRController: Successfully initialized GoogleVR Controller.
+[2019.10.26-02.04.29:532][  0]LogInstantPreview: Warning: Adb Not Detected.  Please set the ANDROID_HOME environment variable to your Android SDK directory and restart the Unreal editor.
+[2019.10.26-02.04.29:562][  0]LogAssetRegistry: Asset discovery search completed in 3.0586 seconds
+[2019.10.26-02.04.29:564][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.10.26-02.04.29:564][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2019.10.26-02.04.29:565][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.26-02.04.29:598][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.26-02.04.30:565][  4]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.26-02.04.30:570][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.26-02.04.30:740][  4]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.10.26-02.04.31:382][  4]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.26-02.04.31:714][  5]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.26-02.04.32:742][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-02.08.26:640][995]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.10.26-02.08.26:709][996]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2019.10.26-02.08.26:709][996]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2019.10.26-02.08.26:709][996]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2019.10.26-02.08.26:709][996]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2019.10.26-02.08.26:709][996]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2019.10.26-02.08.26:709][996]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2019.10.26-02.08.26:709][996]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2019.10.26-02.08.26:709][996]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.26-02.08.26:715][996]LogProfilingDebugging: Allocated a 1204 x 572 texture for HMD canvas layer
+[2019.10.26-02.08.26:715][996]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.10.26-02.08.26:756][997]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.10.26-02.08.26:792][998]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.10.26-02.08.27:111][ 31]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 129
+[2019.10.26-02.08.28:148][125]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 119
+[2019.10.26-02.08.28:339][142]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 109
+[2019.10.26-02.08.28:430][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 99
+[2019.10.26-02.08.28:483][153]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 89
+[2019.10.26-02.08.28:950][202]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 79
+[2019.10.26-02.08.29:376][243]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 69
+[2019.10.26-02.08.29:403][246]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 60
+[2019.10.26-02.08.29:826][295]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 52
+[2019.10.26-02.08.30:592][372]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 45
+[2019.10.26-02.08.30:685][382]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 39
+[2019.10.26-02.08.30:998][416]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2019.10.26-02.08.31:028][419]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2019.10.26-02.08.31:657][487]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2019.10.26-02.08.31:838][506]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2019.10.26-02.08.32:012][525]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2019.10.26-02.08.32:127][538]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2019.10.26-02.08.32:331][560]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2019.10.26-02.08.32:425][570]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2019.10.26-02.08.32:572][586]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2019.10.26-02.08.32:872][617]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2019.10.26-02.08.33:001][631]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2019.10.26-02.08.33:029][634]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2019.10.26-02.08.33:065][637]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2019.10.26-02.08.33:074][638]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2019.10.26-02.08.33:326][660]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2019.10.26-02.08.33:375][665]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.26-02.08.42:944][780]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/FirstPerson/Textures/FirstPersonCrosshair.FirstPersonCrosshair
+[2019.10.26-02.08.42:956][780]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.26-02.08.50:018][561]LogSlate: Window 'FirstPersonCrosshair' being destroyed
+[2019.10.26-02.09.32:688][ 58]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.10.26-02.09.54:403][640]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.26-02.09.54:408][640]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.09.59:573][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.10.26-02.09.59:790][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.10.26-02.09.59:804][219]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/BP_Projectile.BP_Projectile_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2019.10.26-02.09.59:804][219]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/BP_Projectile.SKEL_BP_Projectile_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2019.10.26-02.09.59:867][219]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/BP_Projectile9E90D2334F37645C3CFC1289D03C208F.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/FirstPersonBP/Blueprints/BP_Projectile.uasset'
+[2019.10.26-02.10.00:108][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.10.26-02.10.00:148][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.10.26-02.10.00:178][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.10.26-02.10.00:272][219]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/FirstPersonCharacterAF3E74394F417C5243A2B29347E0502B.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.26-02.10.01:491][355]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BP_Projectile.BP_Projectile
+[2019.10.26-02.10.21:098][831]LogRenderer: Reallocating scene render targets to support 1204x740 Format 10 NumSamples 1 (Frame:1).
+[2019.10.26-02.11.21:028][444]LogEditorTransaction: Undo 컴포넌트 붙이기
+[2019.10.26-02.13.50:892][797]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.26-02.14.30:483][782]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A8396BDD-4D92-041D-E9A6-76A20F32C752}
+[2019.10.26-02.14.59:667][527]BlueprintLog: New page: BP_Projectile 컴파일
+[2019.10.26-02.14.59:675][527]LogBlueprint: Error: [Compiler BP_Projectile] 이 블루프린트(셀프)는 SceneComponent 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.10.26-02.14.59:675][527]LogBlueprint: Error: [Compiler BP_Projectile] 이 블루프린트(셀프)는 PrimitiveComponent 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.10.26-02.14.59:675][527]LogBlueprint: Error: [Compiler BP_Projectile] 이 블루프린트(셀프)는 PrimitiveComponent 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2019.10.26-02.14.59:915][527]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.10.26-02.15.34:797][355]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.26-02.15.39:293][861]BlueprintLog: New page: BP_Projectile 컴파일
+[2019.10.26-02.15.39:298][861]LogBlueprint: Warning: [Compiler BP_Projectile]  에 대한 'None' 기본값을 파싱할 수 없습니다. 프로퍼티: BaseDamage.
+[2019.10.26-02.15.39:504][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.10.26-02.16.06:943][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.10.26-02.16.07:173][315]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/FirstPersonExampleMap_Auto1541208704D4B396CA3B226AB5315E7AD.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.10.26-02.16.07:179][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.274
+[2019.10.26-02.16.07:179][315]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2019.10.26-02.16.07:181][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/BP_Projectile] ([1] browsable assets)...
+[2019.10.26-02.16.07:189][315]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/BP_Projectile.BP_Projectile]
+[2019.10.26-02.16.07:189][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/BP_Projectile]
+[2019.10.26-02.16.07:229][315]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/BP_Projectile_Auto13AF98448416A6385FF48B4B90E0255E4.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/FirstPersonBP/Blueprints/BP_Projectile_Auto1.uasset'
+[2019.10.26-02.16.07:230][315]LogFileHelpers: Auto-saving content packages took 0.051
+[2019.10.26-02.18.03:820][790]BlueprintLog: New page: BP_Projectile 컴파일
+[2019.10.26-02.18.04:026][790]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.10.26-02.18.14:001][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-02.18.41:903][948]LogSlate: Window 'BP_Projectile' being destroyed
+[2019.10.26-02.18.41:933][948]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.18.46:962][531]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BP_Projectile.BP_Projectile
+[2019.10.26-02.19.09:865][601]LogSlate: Window 'BP_Projectile' being destroyed
+[2019.10.26-02.19.28:157][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-02.24.32:682][803]LogLinker: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.26-02.24.32:682][803]LogLinker: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2019.10.26-02.26.21:577][131]BlueprintLog: New page: BP_Projectile 컴파일
+[2019.10.26-02.26.21:824][131]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.10.26-02.26.56:337][199]BlueprintLog: New page: BP_Projectile 컴파일
+[2019.10.26-02.26.56:561][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.10.26-02.27.38:643][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-02.28.06:746][678]BlueprintLog: New page: BP_Projectile 컴파일
+[2019.10.26-02.28.06:931][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.26-02.28.12:196][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.26-02.28.30:953][107]BlueprintLog: New page: BP_Projectile 컴파일
+[2019.10.26-02.28.31:135][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.10.26-02.28.33:049][298]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.10.26-02.28.33:249][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.10.26-02.28.41:382][221]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.26-02.28.41:405][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.26-02.28.41:405][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-02.28.41:405][221]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 10. 26. 오후 8:28:41)
+[2019.10.26-02.28.41:406][221]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.26-02.28.41:407][221]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.26-02.28.41:417][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009493s)
+[2019.10.26-02.28.41:417][221]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.26-02.28.41:417][221]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2019.10.26-02.28.41:418][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010608s)
+[2019.10.26-02.28.41:446][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.10.26-02.28.41:453][221]LogInit: XAudio2 using '스피커(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-02.28.41:459][221]LogInit: FAudioDevice initialized.
+[2019.10.26-02.28.41:470][221]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.26-02.28.41:471][221]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.26-11.28.41
+[2019.10.26-02.28.41:472][221]LogWorld: Bringing up level for play took: 0.000911
+[2019.10.26-02.28.41:472][221]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.10.26-02.28.41:480][221]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.10.26-02.28.41:480][221]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.676
+[2019.10.26-02.28.41:480][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.26-02.28.41:511][222]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.28.41:512][222]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.28.41:512][222]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.28.43:310][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-02.28.43:413][418]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.26-02.28.43:413][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-02.28.43:413][418]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.26-02.28.43:413][418]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.28.43:433][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-02.28.43:433][418]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.26-02.28.43:474][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-02.28.43:497][418]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.10.26-02.28.43:513][419]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.26-02.28.55:034][656]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.26-02.29.13:496][733]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event 가  Crouch 입력 액션  에 대해 알려지지 않은 'Crouch' 액션을 참조합니다.
+[2019.10.26-02.29.13:497][733]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event 가  Jump 입력 액션  에 대해 알려지지 않은 'Jump' 액션을 참조합니다.
+[2019.10.26-02.29.13:781][733]LogAIModule: Creating AISystem for world Level1
+[2019.10.26-02.29.18:712][301]LogSlate: Window '프로젝트 세팅' being destroyed
+[2019.10.26-02.29.18:716][301]LogSlate: Window '프로젝트 세팅' being destroyed
+[2019.10.26-02.29.35:174][320]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2019.10.26-02.29.37:089][320]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.26-02.29.37:630][320]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2019.10.26-02.29.38:664][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.10.26-02.29.38:703][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.10.26-02.29.38:754][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.26-02.29.41:930][673]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.10.26-02.29.41:930][673]LogObjectTools: Currently 12 active worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_10, /Engine/Transient.World_12
+[2019.10.26-02.29.43:617][673]LogSlate: Window '레벨을 삭제할 수 없습니다.' being destroyed
+[2019.10.26-02.29.47:757][161]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Level1/Level1.Level1
+[2019.10.26-02.29.47:784][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.10.26-02.29.50:548][161]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.10.26-02.29.50:622][161]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/BP_Projectile1DFD318C4BB612921E965EBC2E15FFDF.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/FirstPersonBP/Blueprints/BP_Projectile.uasset'
+[2019.10.26-02.29.50:659][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.10.26-02.29.50:862][161]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/FirstPersonExampleMapA43470ED4405158D8C551DA4C647BCBE.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.26-02.29.50:902][161]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.276
+[2019.10.26-02.29.50:909][161]Cmd: MAP LOAD FILE="../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/Maps/Level1/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.26-02.29.50:909][161]LightingResults: New page: 라이팅 빌드
+[2019.10.26-02.29.50:910][161]LoadErrors: New page: 맵 로드중: Level1.umap
+[2019.10.26-02.29.50:910][161]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.29.50:910][161]MapCheck: New page: 맵 체크
+[2019.10.26-02.29.50:910][161]LightingResults: New page: 라이팅 빌드
+[2019.10.26-02.29.50:953][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.10.26-02.29.51:041][161]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.26-02.29.51:085][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.10.26-02.29.51:121][161]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.26-02.29.51:121][161]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.123ms.
+[2019.10.26-02.29.51:122][161]LogFileHelpers: Loading map 'Level1' took 0.214
+[2019.10.26-02.29.51:226][161]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.26-02.29.58:191][970]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.10.26-02.29.58:191][970]LogObjectTools: Currently 12 active worlds: /Game/Maps/Level1/Level1.Level1, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_10, /Engine/Transient.World_12
+[2019.10.26-02.29.58:231][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.10.26-02.29.59:449][970]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.26-02.29.59:555][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.10.26-02.29.59:588][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.10.26-02.29.59:620][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.26-02.30.04:467][528]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2019.10.26-02.30.04:467][528]LogMaterial: Warning: /Engine/Transient.Material_4 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.26-02.30.04:467][528]LogMaterial: Display: 	Missing Preview connection for function input 'Use Custom Position?'
+[2019.10.26-02.30.11:964][410]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.26-02.30.11:989][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.26-02.30.11:990][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-02.30.11:990][410]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오후 8:30:11)
+[2019.10.26-02.30.11:990][410]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.26-02.30.12:002][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012497s)
+[2019.10.26-02.30.12:003][410]LogAIModule: Creating AISystem for world Level1
+[2019.10.26-02.30.12:003][410]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2019.10.26-02.30.12:003][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013401s)
+[2019.10.26-02.30.12:041][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.26-02.30.12:048][410]LogInit: XAudio2 using '스피커(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-02.30.12:053][410]LogInit: FAudioDevice initialized.
+[2019.10.26-02.30.12:056][410]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.26-02.30.12:061][410]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.26-11.30.12
+[2019.10.26-02.30.12:062][410]LogWorld: Bringing up level for play took: 0.005215
+[2019.10.26-02.30.12:062][410]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.26-02.30.12:066][410]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: -0.089
+[2019.10.26-02.30.12:067][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.26-02.30.12:094][411]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.30.12:095][411]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.30.12:095][411]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.30.17:095][ 11]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.30.17:096][ 11]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.30.17:096][ 11]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.30.19:463][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.26-02.30.19:463][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-02.30.19:463][295]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.26-02.30.19:463][295]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.30.19:474][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-02.30.19:474][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.26-02.30.19:516][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-02.30.19:521][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.10.26-02.30.19:564][299]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.26-02.30.20:239][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-02.30.20:338][392]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.26-02.30.20:365][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.26-02.30.20:365][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-02.30.20:365][392]PIE: New page: PIE 세션: Level1 (2019. 10. 26. 오후 8:30:20)
+[2019.10.26-02.30.20:365][392]LogPlayLevel: Creating play world package: /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.26-02.30.20:378][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012525s)
+[2019.10.26-02.30.20:378][392]LogAIModule: Creating AISystem for world Level1
+[2019.10.26-02.30.20:379][392]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2019.10.26-02.30.20:379][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1/Level1.Level1 to /Game/Maps/Level1/UEDPIE_0_Level1.Level1 (0.013377s)
+[2019.10.26-02.30.20:411][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.10.26-02.30.20:417][392]LogInit: XAudio2 using '스피커(Synaptics HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-02.30.20:423][392]LogInit: FAudioDevice initialized.
+[2019.10.26-02.30.20:431][392]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.26-02.30.20:437][392]LogWorld: Bringing World /Game/Maps/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.10.26-11.30.20
+[2019.10.26-02.30.20:437][392]LogWorld: Bringing up level for play took: 0.005223
+[2019.10.26-02.30.20:437][392]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.10.26-02.30.20:441][392]PIE: /Game/Maps/Level1/UEDPIE_0_Level1 에 대한 에디터에서 플레이 시작 시간: 0.285
+[2019.10.26-02.30.20:441][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.26-02.30.22:103][589]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.30.22:103][589]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.30.22:103][589]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.30.27:103][189]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.30.27:104][189]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.30.27:104][189]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.30.32:103][789]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.30.32:104][789]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.30.32:104][789]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.30.37:104][389]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.30.37:105][389]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.30.37:105][389]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.30.40:047][742]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2019.10.26-02.30.40:047][742]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-382.274 Y=-751.237 Z=-225.998] for [BP_Projectile_C]
+[2019.10.26-02.30.42:104][989]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.30.42:105][989]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.30.42:105][989]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.30.47:105][589]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.30.47:106][589]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.30.47:106][589]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.30.52:105][189]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.30.52:106][189]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.30.52:106][189]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.30.57:105][789]LogGoogleVRController: Trying to connect to GoogleVR Controller
+[2019.10.26-02.30.57:106][789]LogWindows: Warning: CreateProc failed: 매개 변수가 틀립니다. (0x00000057)
+[2019.10.26-02.30.57:106][789]LogWindows: Warning: URL:  forward tcp:7003 tcp:7003
+[2019.10.26-02.30.58:582][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.26-02.30.58:582][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-02.30.58:582][966]LogWorld: BeginTearingDown for /Game/Maps/Level1/UEDPIE_0_Level1
+[2019.10.26-02.30.58:583][966]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.30.58:588][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-02.30.58:589][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1/Level1.Level1:PersistentLevel.Level1'
+[2019.10.26-02.30.58:631][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-02.30.58:637][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.10.26-02.31.03:010][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-02.31.03:014][968]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.26-02.31.38:055][869]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.32.47:549][964]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.10.26-02.32.47:563][964]LogBlueprint: Error: [Compiler FirstPersonCharacter] Object  유형이 결정되지 않았습니다. 특정 유형을 암시하려면  BP_Projectile 에 형변환  에 무언가를 연결하세요.
+[2019.10.26-02.32.47:563][964]LogBlueprint: Error: [Compiler FirstPersonCharacter] ' Object ' 핀의 현재 값이 유효하지 않습니다: Unsupported type Object 와일드카드 on pin Object
+[2019.10.26-02.32.47:799][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.10.26-02.33.05:418][922]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.26-02.33.24:182][114]BlueprintLog: New page: FirstPersonCharacter 컴파일
+[2019.10.26-02.33.24:424][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.10.26-02.33.27:425][447]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.26-02.33.27:426][447]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.33.30:316][771]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BP_Projectile.BP_Projectile
+[2019.10.26-02.33.37:813][600]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BP_AIBase.BP_AIBase
+[2019.10.26-02.34.32:754][693]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.26-02.34.57:823][169]BlueprintLog: New page: BP_AIBase 컴파일
+[2019.10.26-02.34.58:046][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.10.26-02.34.59:237][302]LogSlate: Window 'BP_AIBase' being destroyed
+[2019.10.26-02.34.59:261][302]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.35.49:253][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.10.26-02.35.50:477][693]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.10.26-02.35.50:509][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AIBase" FILE="../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/AI/BP_AIBase.uasset" SILENT=true
+[2019.10.26-02.35.50:575][693]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/BP_AIBase3823A24243387EE3000299972D1EC32C.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/AI/BP_AIBase.uasset'
+[2019.10.26-02.35.50:658][693]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/FirstPersonCharacter5D155C494C56D6983088AEB74A0D36C7.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.26-02.35.50:663][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1/Level1" FILE="../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/Maps/Level1/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-02.35.50:686][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.26-02.35.50:934][693]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Level1472468F14F423200C2747D89AC66D908.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Content/Maps/Level1/Level1.umap'
+[2019.10.26-02.35.50:974][693]LogFileHelpers: Saving map 'Level1' took 0.312
+[2019.10.26-02.35.51:449][745]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BP_AIBase.BP_AIBase
+[2019.10.26-02.35.55:743][169]LogSlate: Window 'BP_AIBase' being destroyed
+[2019.10.26-02.35.55:748][169]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.38.06:518][836]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/PistolAI/BP_AI_Pistol.BP_AI_Pistol
+[2019.10.26-02.38.19:704][374]LogSlate: Window 'BP_AI_Pistol' being destroyed
+[2019.10.26-02.38.20:653][482]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.41.38:824][ 58]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton EnemyModel_Skeleton, removing AnimBP from actor.
+[2019.10.26-02.41.38:824][ 58]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton EnemyModel_Skeleton, removing AnimBP from actor.
+[2019.10.26-02.41.38:824][ 58]LogAnimation: Warning: AnimBP UE4ASP_HeroTPP_AnimBlueprint_C is incompatible with skeleton EnemyModel_Skeleton, removing AnimBP from actor.
+[2019.10.26-02.41.51:619][926]BlueprintLog: New page: BP_AI_Pistol 컴파일
+[2019.10.26-02.41.51:807][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.10.26-02.41.52:876][ 47]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.26-02.41.52:876][ 47]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.41.52:940][ 47]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/PistolAI/BP_AI_Pistol.BP_AI_Pistol
+[2019.10.26-02.42.00:621][375]LogSlate: Window 'BP_AI_Pistol' being destroyed
+[2019.10.26-02.42.14:997][503]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BP_AIBase.BP_AIBase
+[2019.10.26-02.42.18:979][930]BlueprintLog: New page: BP_AIBase 컴파일
+[2019.10.26-02.42.19:174][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.10.26-02.42.32:193][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-02.42.56:257][544]BlueprintLog: New page: BP_AI_Pistol 컴파일
+[2019.10.26-02.42.56:419][544]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.26-02.42.58:875][832]BlueprintLog: New page: BP_AI_Pistol 컴파일
+[2019.10.26-02.42.59:045][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.10.26-02.44.15:333][940]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.26-02.44.19:922][322]BlueprintLog: New page: BP_AIBase 컴파일
+[2019.10.26-02.44.20:139][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.10.26-02.45.24:377][492]BlueprintLog: New page: BP_AIBase 컴파일
+[2019.10.26-02.45.24:596][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.10.26-02.45.49:487][152]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.26-02.45.49:626][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.10.26-02.45.49:872][153]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Level1_Auto211E44D2546E2A0CF5ED2ABAB1333A4E8.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/Maps/Level1/Level1_Auto2.umap'
+[2019.10.26-02.45.49:877][153]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.281
+[2019.10.26-02.45.49:877][153]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.281
+[2019.10.26-02.45.49:878][153]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AIBase] ([1] browsable assets)...
+[2019.10.26-02.45.49:887][153]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AIBase.BP_AIBase]
+[2019.10.26-02.45.49:887][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AIBase]
+[2019.10.26-02.45.49:887][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AIBase" FILE="../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/AI/BP_AIBase_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.10.26-02.45.49:943][153]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/BP_AIBase_Auto2C157BDA340D8B8184DD3EA86D95E8FD9.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/AI/BP_AIBase_Auto2.uasset'
+[2019.10.26-02.45.49:944][153]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PistolAI/BP_AI_Pistol] ([1] browsable assets)...
+[2019.10.26-02.45.49:952][153]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/PistolAI/BP_AI_Pistol.BP_AI_Pistol]
+[2019.10.26-02.45.49:952][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PistolAI/BP_AI_Pistol]
+[2019.10.26-02.45.49:995][153]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/BP_AI_Pistol_Auto230985E67480132F858551A9C77A93FF1.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/AI/PistolAI/BP_AI_Pistol_Auto2.uasset'
+[2019.10.26-02.45.49:997][153]LogFileHelpers: Auto-saving content packages took 0.119
+[2019.10.26-02.45.55:712][788]LogSlate: Window '프로젝트 세팅' being destroyed
+[2019.10.26-02.46.03:651][369]LogSlate: Window '메시지' being destroyed
+[2019.10.26-02.46.03:656][369]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2019.10.26-02.46.03:656][369]LogCollisionProfile: Warning: Profile (Projectile) ObjectTypeName (Projectile) is invalid. 
+[2019.10.26-02.46.05:629][496]LogSlate: Window '메시지' being destroyed
+[2019.10.26-02.46.05:633][496]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2019.10.26-02.46.07:522][635]LogSlate: Window '메시지' being destroyed
+[2019.10.26-02.46.07:526][635]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2019.10.26-02.46.14:745][739]LogSlate: Window '새 채널' being destroyed
+[2019.10.26-02.46.14:750][739]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2019.10.26-02.46.21:187][864]LogSlate: Window '새 채널' being destroyed
+[2019.10.26-02.46.21:192][864]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2019.10.26-02.46.31:528][990]LogSlate: Window '새 채널' being destroyed
+[2019.10.26-02.46.31:533][990]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2019.10.26-02.46.39:796][171]LogSlate: Window '새 채널' being destroyed
+[2019.10.26-02.46.39:800][171]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2019.10.26-02.46.57:555][737]LogSlate: Window '프로파일 편집' being destroyed
+[2019.10.26-02.49.04:557][180]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.26-02.51.37:754][772]BlueprintLog: New page: BP_AIBase 컴파일
+[2019.10.26-02.51.37:988][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.10.26-02.52.06:241][373]BlueprintLog: New page: BP_AIBase 컴파일
+[2019.10.26-02.52.06:416][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.10.26-02.52.40:752][367]Cmd: TRANSACTION UNDO
+[2019.10.26-02.52.40:752][367]LogEditorTransaction: Undo Max Walk Speed 편집
+[2019.10.26-02.53.31:316][385]BlueprintLog: New page: BP_AIBase 컴파일
+[2019.10.26-02.53.31:529][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.10.26-02.54.18:627][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-02.54.23:325][375]LogAssetEditorManager: Opening Asset editor for Material /Game/Meshes/EnemyModel/Material/skin.skin
+[2019.10.26-02.54.23:327][375]LogMaterial: Display: Missing cached shader map for material skin, compiling. 
+[2019.10.26-02.54.23:335][375]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2019.10.26-02.54.23:335][375]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2019.10.26-02.54.23:335][375]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2019.10.26-02.54.23:335][375]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2019.10.26-02.54.23:335][375]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2019.10.26-02.54.23:335][375]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2019.10.26-02.54.23:335][375]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2019.10.26-02.54.23:335][375]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.26-02.54.23:611][375]LogMaterial: Display: Missing cached shader map for material skin, compiling. 
+[2019.10.26-02.54.23:620][375]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2019.10.26-02.54.23:622][375]LogMaterial: Display: Missing cached shader map for material skin, compiling. 
+[2019.10.26-02.54.23:641][375]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.26-02.54.23:651][375]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-02.54.23:735][375]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2019.10.26-02.54.23:735][375]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2019.10.26-02.54.23:735][375]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2019.10.26-02.54.23:735][375]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2019.10.26-02.54.23:776][376]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2019.10.26-02.54.23:776][376]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2019.10.26-02.54.23:776][376]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2019.10.26-02.54.23:803][377]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2019.10.26-02.54.23:803][377]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2019.10.26-02.54.23:969][393]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2019.10.26-02.54.24:099][405]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2019.10.26-02.54.24:114][406]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2019.10.26-02.54.24:129][407]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2019.10.26-02.54.24:129][407]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2019.10.26-02.54.24:157][409]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2019.10.26-02.54.24:157][409]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2019.10.26-02.54.24:158][409]MaterialEditorStats: Base pass shader without light map: 36 instructions
+[2019.10.26-02.54.24:158][409]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.10.26-02.54.24:158][409]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.10.26-02.54.24:158][409]MaterialEditorStats: Texture samplers: 1/16
+[2019.10.26-02.54.24:158][409]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.26-02.54.24:158][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.26-02.54.27:720][825]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.26-02.54.27:732][825]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2019.10.26-02.54.27:732][825]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2019.10.26-02.54.27:732][825]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2019.10.26-02.54.27:732][825]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2019.10.26-02.54.27:736][825]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.26-02.54.27:741][825]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-02.54.27:757][825]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.26-02.54.27:763][825]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2019.10.26-02.54.27:763][825]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2019.10.26-02.54.27:763][825]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2019.10.26-02.54.27:763][825]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.26-02.54.27:763][825]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-02.54.28:047][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.26-02.54.28:066][845]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2019.10.26-02.54.28:070][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.26-02.54.28:079][845]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2019.10.26-02.54.28:079][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-02.54.28:086][845]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2019.10.26-02.54.28:098][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.26-02.54.28:107][845]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2019.10.26-02.54.28:107][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-02.54.28:126][846]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2019.10.26-02.54.28:126][846]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2019.10.26-02.54.28:161][850]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2019.10.26-02.54.28:177][852]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2019.10.26-02.54.28:454][875]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2019.10.26-02.54.28:475][877]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2019.10.26-02.54.28:504][880]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2019.10.26-02.54.29:381][981]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.26-02.54.29:387][981]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2019.10.26-02.54.29:387][981]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2019.10.26-02.54.29:387][981]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2019.10.26-02.54.29:387][981]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2019.10.26-02.54.29:387][981]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-02.54.29:403][981]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.26-02.54.29:409][981]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.26-02.54.29:414][981]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2019.10.26-02.54.29:414][981]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2019.10.26-02.54.29:414][981]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2019.10.26-02.54.29:414][981]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.26-02.54.29:416][981]LogSlate: Window '색 선택 툴' being destroyed
+[2019.10.26-02.54.29:741][ 13]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2019.10.26-02.54.29:772][ 16]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2019.10.26-02.54.29:791][ 18]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2019.10.26-02.54.29:809][ 20]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2019.10.26-02.54.30:725][127]LogMaterialEditor: Applying material skin
+[2019.10.26-02.54.31:046][127]LogMaterial: Display: Missing cached shader map for material skin, compiling. 
+[2019.10.26-02.54.31:059][127]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2019.10.26-02.54.31:059][127]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2019.10.26-02.54.31:059][127]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2019.10.26-02.54.31:059][127]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2019.10.26-02.54.31:059][127]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2019.10.26-02.54.31:059][127]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2019.10.26-02.54.31:059][127]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2019.10.26-02.54.31:059][127]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.10.26-02.54.31:083][127]LogMaterial: Display: Missing cached shader map for material skin, compiling. 
+[2019.10.26-02.54.31:096][127]LogMaterial: Display: Missing cached shader map for material skin, compiling. 
+[2019.10.26-02.54.31:145][127]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2019.10.26-02.54.31:155][127]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-02.54.31:451][127]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2019.10.26-02.54.31:451][127]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2019.10.26-02.54.31:452][127]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2019.10.26-02.54.31:452][127]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2019.10.26-02.54.31:452][127]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2019.10.26-02.54.31:452][127]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2019.10.26-02.54.31:452][127]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2019.10.26-02.54.31:452][127]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2019.10.26-02.54.31:452][127]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2019.10.26-02.54.31:452][127]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2019.10.26-02.54.31:453][127]TextureStreamingBuild: Display: Compiling optional shaders took 0.309 seconds.
+[2019.10.26-02.54.31:503][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.26-02.54.31:723][148]MaterialEditorStats: Base pass shader without light map: 36 instructions
+[2019.10.26-02.54.31:723][148]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.10.26-02.54.31:723][148]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.10.26-02.54.31:723][148]MaterialEditorStats: Texture samplers: 1/16
+[2019.10.26-02.54.31:723][148]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.26-02.54.31:723][148]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.26-02.54.34:474][461]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.55.22:432][815]BlueprintLog: New page: BP_AI_Pistol 컴파일
+[2019.10.26-02.55.22:650][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.10.26-02.55.26:838][300]Cmd: TRANSACTION UNDO
+[2019.10.26-02.55.26:838][300]LogEditorTransaction: Undo Blend 편집
+[2019.10.26-02.55.27:391][361]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2019.10.26-02.57.03:470][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.10.26-02.57.03:712][  9]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Level1_Auto3236BEFEF405033C338C690A50FCE1BA4.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/Maps/Level1/Level1_Auto3.umap'
+[2019.10.26-02.57.03:715][  9]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1/Level1' took 0.275
+[2019.10.26-02.57.03:715][  9]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.275
+[2019.10.26-02.57.03:717][  9]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AIBase] ([1] browsable assets)...
+[2019.10.26-02.57.03:724][  9]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AIBase.BP_AIBase]
+[2019.10.26-02.57.03:724][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AIBase]
+[2019.10.26-02.57.03:724][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AIBase" FILE="../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/AI/BP_AIBase_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.10.26-02.57.03:780][  9]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/BP_AIBase_Auto34EDEB9EB42C7D771D5D4BF9E57296A1E.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/AI/BP_AIBase_Auto3.uasset'
+[2019.10.26-02.57.03:781][  9]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PistolAI/BP_AI_Pistol] ([1] browsable assets)...
+[2019.10.26-02.57.03:788][  9]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/PistolAI/BP_AI_Pistol.BP_AI_Pistol]
+[2019.10.26-02.57.03:788][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PistolAI/BP_AI_Pistol]
+[2019.10.26-02.57.03:829][  9]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/BP_AI_Pistol_Auto31A5E997847B88BD60B90748C9CFB6E75.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/AI/PistolAI/BP_AI_Pistol_Auto3.uasset'
+[2019.10.26-02.57.03:830][  9]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/EnemyModel/Material/skin] ([1] browsable assets)...
+[2019.10.26-02.57.03:838][  9]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/EnemyModel/Material/skin.skin]
+[2019.10.26-02.57.03:838][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/EnemyModel/Material/skin]
+[2019.10.26-02.57.03:875][  9]LogSavePackage: Moving '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/skin_Auto343F69BA743F0D8CA3A406985C558941F.tmp' to '../../../../../../Users/tmdgu/OneDrive/바탕 화면/승형AI/SuperCool/Saved/Autosaves/Game/Meshes/EnemyModel/Material/skin_Auto3.uasset'
+[2019.10.26-02.57.03:876][  9]LogFileHelpers: Auto-saving content packages took 0.159
+[2019.10.26-03.15.19:087][363]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.10.26-03.15.19:589][364]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.10.26-03.15.20:089][364]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SyncInterval 0
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1056
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000E066C
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.Windowed true
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2019.10.26-03.15.22:265][367]LogRHI: Error: SwapChainDesc.Flags 2050
+[2019.10.26-03.15.22:265][367]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:368 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2019.10.26-03.15.22:265][367]LogD3D11RHI: [Aftermath] GDynamicRHI=000002A7D61EC0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.10.26-03.15.22:265][367]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)

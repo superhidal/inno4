@@ -1,0 +1,21 @@
+1인칭 -> VR로 바꿔줘야 할 때
+
+* 블랙보드 -> Player -> Key Type -> Base Calss -> VR
+
+* ANIMBP_PistolEnemy -> FirstPersonCharacter 형변환 VR로 바꾸기
+
+* BP_AI_Pistol에서 StaticMesh(총) Collision Check하기
+
+* BP_AI_Pistol -> FirstPersonCharacter 형변환 VR로 바꾸기
+
+* ServiceSetPlayer -> Get Actor of Class -> 클래스 VR로 바꾸기
+
+* Decorator_IsPlayerAlive -> FirstPersonCharacter 형변환 VR로 바꾸기
+
+* ANIMBP_Character -> FirstPersonCharacter 형변환 VR로 바꾸기 안함
+
+* Enemy -> FirstPersonCharacter 형변환 VR로 바꾸기
+
+* nextitem -> FirstPersonCharacter 형변환 VR로 바꾸기
+
+* BP_AIBase -> FirstPersonCharacter 형변환 VR로 바꾸기
